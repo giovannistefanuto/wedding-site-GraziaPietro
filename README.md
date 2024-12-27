@@ -207,19 +207,19 @@
                     <div class="col-xl-6">
                         <div class="wow fadeIn" data-wow-delay="0.3s">
                             <h5 class="text-uppercase text-primary fw-bold mb-4">About Us</h5>
-                            <h1 class="display-5 text-white mb-4">We Make Your Every Moment</h1>
-                            <p class="text-white fs-5 mb-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                            <h1 class="display-5 text-white mb-4">Il nostro grande momento</h1>
+                            <p class="text-white fs-5 mb-4">Ama la tua moglie, come ami te stesso… o un po’ di più se possibile! (ispirato a Efesini 5:28)
                             </p>
                             <div class="tab-class bg-primary p-4">
                                 <ul class="nav d-flex mb-4">
                                     <li class="nav-item">
                                         <a class="d-flex py-2 text-center bg-white active" data-bs-toggle="pill" href="#tab-1">
-                                            <span class="text-dark" style="width: 150px;">Bride Info</span>
+                                            <span class="text-dark" style="width: 150px;">Info Sposa</span>
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="d-flex py-2 mx-3 text-center bg-white" data-bs-toggle="pill" href="#tab-2">
-                                            <span class="text-dark" style="width: 150px;">Groom info</span>
+                                            <span class="text-dark" style="width: 150px;">Info Sposo</span>
                                         </a>
                                     </li>
                                 </ul>
@@ -233,7 +233,7 @@
                                                     </div>
                                                     <div class="text-start my-auto">
                                                         <h5 class="text-white fw-bold">Grazia</h5>
-                                                        <p class="text-white mb-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                        <p class="text-white mb-3">Testo grazia
                                                         </p>
                                                         <div class="d-flex">
                                                             <a href="" class="btn btn-primary btn-primary-outline-0 btn-sm-square me-2"><i class="fab fa-facebook-f"></i></a>
@@ -255,7 +255,7 @@
                                                     </div>
                                                     <div class="text-start my-auto">
                                                         <h5 class="text-white fw-bold">Pietro</h5>
-                                                        <p class="text-white mb-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                                        <p class="text-white mb-3">Testo pietro
                                                         </p>
                                                         <div class="d-flex">
                                                             <a href="" class="btn btn-primary btn-primary-outline-0 btn-sm-square me-2"><i class="fab fa-facebook-f"></i></a>
@@ -267,20 +267,6 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="d-flex mt-5">
-                                <div class="d-flex align-items-center justify-content-center flex-shrink-0">
-                                    <a href="#" class="btn btn-primary btn-primary-outline-0 py-3 px-4">Read More</a>
-                                </div>
-                                <div class="d-flex align-items-center">
-                                    <div class="d-inline-block ms-4 me-3">
-                                        <i class="fa fa-phone fa-2x text-success border border-2 border-white p-2"></i>
-                                    </div>
-                                    <div class="d-flex flex-column flex-nowrap">
-                                        <h5 class="text-dark fw-bold mb-2">Call Us Anytime</h5>
-                                        <h4 class="text-primary mb-0">+123 456 7890</h4>
                                     </div>
                                 </div>
                             </div>
@@ -382,27 +368,28 @@
                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4" style="border-style: double;">
                     <h4 class="text-dark text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">02 Giugno 2025</h4>
                 </div>
-                <h1 class="display-4" style="color: red;">CI SPOSIAMO, FINALMENTE!</h1>
-                <p class="text-dark fs-5">Niloy Hotel New York , 123 West 23th Street, NY</p>
+                <h1 class="display-4" style="color: red;">Ma scusate, quanto manca?</h1>
+                <p class="text-dark fs-5">Santuario della Madonna del Monte di Marsure, 
+                    Costa di, Via del Santuario, 43, 33081 Aviano PN</p>
                 <div class="d-flex align-items-center justify-content-center mb-5" id="countdown">
                     <div class="text-dark fs-2 me-4">
                     <div id="days">00</div>
-                    <span>Days</span>
+                    <span>Giorni</span>
                     </div>
                     <div class="text-dark fs-2 me-4">
                     <div id="hours">00</div>
-                    <span>Hours</span>
+                    <span>Ore</span>
                     </div>
                     <div class="text-dark fs-2 me-4">
                     <div id="minutes">00</div>
-                    <span>Mins</span>
+                    <span>Minuti</span>
                     </div>
                     <div class="text-dark fs-2 me-0">
                     <div id="seconds">00</div>
-                    <span>Secs</span>
+                    <span>Secondi</span>
                     </div>
                 </div>
-                <a class="btn btn-primary btn-primary-outline-0 py-3 px-5" href="#">Book Your Attendance</a>
+           <!--     <a class="btn btn-primary btn-primary-outline-0 py-3 px-5" href="#">Book Your Attendance</a>-->
                 </div>
                 <div class="position-absolute" style="top: 15%; right: -30px; transform: rotate(320deg); opacity: 0.5; z-index: 1;">
                 <img src="img/attendance-bg.png" class="img-fluid" alt="">
@@ -527,8 +514,9 @@
             <div class="container position-relative py-5">
                 <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
                     <h1 class="display-2 text-dark">Wedding Gallery</h1>
-                    <p class="fs-5 text-dark">Lorem Ipsum is simply dummy text of the printing and typesetting</p>
+                    <p class="fs-5 text-dark">Qui troverai tutte le foto che cerchi, e anche di più!<br>Si beh, dopo il matrimonio</p>
                 </div>
+                <!--
                 <div class="row g-4">
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="gallery-item">
@@ -654,252 +642,10 @@
                         <a class="btn btn-primary btn-primary-outline-0 py-3 px-5 me-2" href="#">View All <i class="fas fa-arrow-right"></i></a>
                     </div>
                 </div>
+                --> 
             </div>
         </div>
         <!-- Gallery end -->
-
-
-        <!--- Bridesmaids & Groomsmen start -->
-        <div class="container-fluid team position-relative py-5">
-            <div class="position-absolute" style="bottom: -80px; right: 0;">
-                <img src="img/tamp-bg-1.png" class="img-fluid" alt="">
-            </div>
-            <div class="position-absolute" style="bottom: -90px; left: 0; transform: rotate(150deg);">
-                <img src="img/tamp-bg-1.png" class="img-fluid" alt="">
-            </div>
-            <div class="position-absolute" style="top: -100px; right: 0;">
-                <img src="img/tamp-bg-1.png" class="img-fluid" alt="">
-            </div>
-            <div class="position-absolute" style="top: -80px; left: 0; transform: rotate(150deg);">
-                <img src="img/tamp-bg-1.png" class="img-fluid" alt="">
-            </div>
-            <div class="container py-5">
-                <div class="mb-5 text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
-                    <h1 class="display-2 text-dark">Bridesmaids & Groomsmen</h1>
-                    <p class="fs-5 text-dark">Lorem Ipsum is simply dummy text of the printing and typesetting Ipsum is simply dummy text of the printing and typesetting Ipsum is simply dummy text of the printing and typesetting</p>
-                </div>
-                <div class="row g-4">
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <div class="team-img-main">
-                                    <img src="img/bridesmaid-1.png" class="img-fluid w-100" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -30px; left: -100px; transform: rotate(50deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -40px; right: -120px; transform: rotate(-30deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <div class="d-flex flex-column p-4">
-                                    <h5 class="text-white display-6 mb-1">Amelia Alex</h5>
-                                    <h5 class="text-white fs-5 mb-0">Bridesmaid</h5>
-                                </div>
-                            </div>
-                            <div class="team-social d-flex flex-column">
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-light btn-light-outline-0" href="#"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <div class="team-img-main">
-                                    <img src="img/bridesmaid-team-2.png" class="img-fluid w-100" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -30px; left: -100px; transform: rotate(50deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -40px; right: -120px; transform: rotate(-30deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <div class="d-flex flex-column p-4">
-                                    <h5 class="text-white display-6 mb-1">Amelia Alex</h5>
-                                    <h5 class="text-white fs-5 mb-0">Bridesmaid</h5>
-                                </div>
-                            </div>
-                            <div class="team-social d-flex flex-column">
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-light btn-light-outline-0" href="#"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <div class="team-img-main">
-                                    <img src="img/bridesmaid-3.png" class="img-fluid w-100" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -30px; left: -100px; transform: rotate(50deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -40px; right: -120px; transform: rotate(-30deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <div class="d-flex flex-column p-4">
-                                    <h5 class="text-white display-6 mb-1">Amelia Alex</h5>
-                                    <h5 class="text-white fs-5 mb-0">Bridesmaid</h5>
-                                </div>
-                            </div>
-                            <div class="team-social d-flex flex-column">
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-light btn-light-outline-0" href="#"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <div class="team-img-main">
-                                    <img src="img/bridesmaid-4.png" class="img-fluid w-100" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -30px; left: -100px; transform: rotate(50deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -40px; right: -120px; transform: rotate(-30deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <div class="d-flex flex-column p-4">
-                                    <h5 class="text-white display-6 mb-1">Amelia Alex</h5>
-                                    <h5 class="text-white fs-5 mb-0">Bridesmaid</h5>
-                                </div>
-                            </div>
-                            <div class="team-social d-flex flex-column">
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-light btn-light-outline-0" href="#"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <div class="team-img-main">
-                                    <img src="img/Groomsmen-1.png" class="img-fluid w-100" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -30px; left: -100px; transform: rotate(50deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -40px; right: -120px; transform: rotate(-30deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <div class="d-flex flex-column p-4">
-                                    <h5 class="text-white display-6 mb-1">David John</h5>
-                                    <h5 class="text-white fs-5 mb-0">Groomsmen</h5>
-                                </div>
-                            </div>
-                            <div class="team-social d-flex flex-column">
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-light btn-light-outline-0" href="#"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <div class="team-img-main">
-                                    <img src="img/Groomsmen-2.png" class="img-fluid w-100" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -30px; left: -100px; transform: rotate(50deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -40px; right: -120px; transform: rotate(-30deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <div class="d-flex flex-column p-4">
-                                    <h5 class="text-white display-6 mb-1">David John</h5>
-                                    <h5 class="text-white fs-5 mb-0">Groomsmen</h5>
-                                </div>
-                            </div>
-                            <div class="team-social d-flex flex-column">
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-light btn-light-outline-0" href="#"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <div class="team-img-main">
-                                    <img src="img/Groomsmen-3.png" class="img-fluid w-100" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -30px; left: -100px; transform: rotate(50deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -40px; right: -120px; transform: rotate(-30deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <div class="d-flex flex-column p-4">
-                                    <h5 class="text-white display-6 mb-1">David John</h5>
-                                    <h5 class="text-white fs-5 mb-0">Groomsmen</h5>
-                                </div>
-                            </div>
-                            <div class="team-social d-flex flex-column">
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-light btn-light-outline-0" href="#"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <div class="team-img-main">
-                                    <img src="img/Groomsmen-4.png" class="img-fluid w-100" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -30px; left: -100px; transform: rotate(50deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                                <div class="team-img-bg position-absolute" style="bottom: -40px; right: -120px; transform: rotate(-30deg); z-index: 1;">
-                                    <img src="img/team-1-bg.png" class="img-fluid" alt="">
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <div class="d-flex flex-column p-4">
-                                    <h5 class="text-white display-6 mb-1">David John</h5>
-                                    <h5 class="text-white fs-5 mb-0">Groomsmen</h5>
-                                </div>
-                            </div>
-                            <div class="team-social d-flex flex-column">
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-light btn-light-outline-0 mb-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-light btn-light-outline-0" href="#"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Bridesmaids & Groomsmen End -->
-
 
         <!-- RSVP Form Start -->
         <div class="container-fluid RSVP-form py-5" id="weddingRsvp">
@@ -999,30 +745,30 @@
                 <div class="row g-5 justify-content-center text-center">
                     <div class="col-md-4 wow fadeIn" data-wow-delay="0.1s">
                         <div class="p-4 border-secondary" style="border-style: double;">
-                            <h4>Call Us Now</h4>
-                            <a href="#" class="text-dark">+123 456 7890</a>
+                            <h4>Problemi? Chiamami/Messaggiami</h4>
+                            <a href="#" class="text-dark">Giovanni: +3318977891</a>
                         </div>
                     </div>
                     <div class="col-md-4 wow fadeIn" data-wow-delay="0.3s">
                         <div class="p-4 border-secondary" style="border-style: double;">
-                            <h4>When</h4>-
+                            <h4>Quando</h4>-
                             <p class="mb-0 text-dark">
-                                02. Giugno 2025. at 7 o’clock in the evening
+                                02. Giugno 2025. 11:30 del mattino
                             </p>
                         </div>
                     </div>
                     <div class="col-md-4 wow fadeIn" data-wow-delay="0.5s">
                         <div class="p-4 border-secondary" style="border-style: double;">
-                            <h4>Where</h4>
+                            <h4>Dove</h4>
                             <p class="mb-0 text-dark">
-                                Niloy Hotel, 123 ranking Street, New York. 
+                                Santuario della Madonna del Monte di Marsure, Costa di, Via del Santuario, 43, 33081 Aviano PN. 
                             </p>
                         </div>
                     </div>
                     <div class="col-12 wow fadeIn" data-wow-delay="0.2s">
                         <div class="border-secondary" style="border-style: double;">
                             <iframe class="w-100" 
-                            style="height: 450px; margin-bottom: -6px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387191.33750346623!2d-73.97968099999999!3d40.6974881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1694259649153!5m2!1sen!2sbd" 
+                            style="height: 450px; margin-bottom: -6px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2504.1158498499576!2d12.570715875795935!3d46.08822319158781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477976fd93902009%3A0x7cf785ac08477ede!2sSantuario%20della%20Madonna%20del%20Monte%20di%20Marsure%20%2F%20Madona%20da%20Mont%20di%20Marsuris!5e1!3m2!1sit!2sit!4v1735320901196!5m2!1sit!2sit"
                             loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>

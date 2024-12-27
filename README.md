@@ -54,12 +54,12 @@
                                 <a href="#weddingHome" class="nav-item nav-link active">Home</a>
                                 <a href="#weddingAbout" class="nav-item nav-link">About</a>
                                 <a href="#weddingStory" class="nav-item nav-link">Story</a>
-                                <a href="#weddingTimeline" class="nav-item nav-link">Timeline</a>
+                                <a href="#weddingTimeline" class="nav-item nav-link">Wedding Informations</a>
                                 <a href="#weddingGallery" class="nav-item nav-link">Gallery</a>
                                 <a href="#weddingRsvp" class="nav-item nav-link">RSVP</a>
                             </div>
                             <div class="d-flex align-items-center flex-nowrap pt-xl-0">
-                                <a href="#weddingRsvp" class="btn btn-primary btn-primary-outline-0 py-2 px-4 ms-4">Book Attendance</a>
+                               <!-- <a href="#weddingRsvp" class="btn btn-primary btn-primary-outline-0 py-2 px-4 ms-4">Book Attendance</a> -->
                             </div>
                         </div>
                     </nav>
@@ -745,7 +745,7 @@
                 <div class="row g-5 justify-content-center text-center">
                     <div class="col-md-4 wow fadeIn" data-wow-delay="0.1s">
                         <div class="p-4 border-secondary" style="border-style: double;">
-                            <h4>Problemi? Chiamami/Messaggiami</h4>
+                            <h4>Problemi? Scrivimi</h4>
                             <a href="#" class="text-dark">Giovanni: +3318977891</a>
                         </div>
                     </div>
@@ -783,41 +783,19 @@
         <div class="container-fluid footer py-5 wow fadeIn" data-wow-delay="0.1s">
             <div class="container py-5">
                 <div class="row g-5 justify-content-center">
-                    <div class="col-lg-4 text-start">
-                        <div class="footer-item d-flex flex-column">
-                            <h4 class="mb-4 text-white">Links</h4>
-                            <a href="#" class="btn-link"> About</a>
-                            <a href="#" class="btn-link"> Gallery</a>
-                            <a href="#" class="btn-link"> Story</a>
-                            <a href="#" class="btn-link"> Timeline</a>
-                            <a href="#" class="btn-link"> RSVP</a>
-                            <a href="#" class="btn-link"> Contact Us</a>
-                            <a href="#" class="btn-link"> Wsedding-date</a>
-                        </div>
-                    </div>
                     <div class="col-lg-4 text-center">
                         <div class="footer-item">
                             <h4 class="mb-4 text-white">Grace<strong class="text-primary">&</strong>Pit</h4>
-                            <p class="text-white">Dolor amet sit justo amet elitr clita ipsum elitr est.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in tempor dui, non consectetur enim.
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
+                            <p class="text-white">Scrivere poesia è arte sublime, <br>
+                                parole che danzano, dolci e intime.<br>
+                                Versi che scorrono, ritmo vibrante,<br>
+                                emozioni che sgorgano, sole o amante.<br>
+                                <br>
+                                La penna che vola su foglio candido,<br>
+                                il cuore si svela, segreto limpido.<br>
+                                Un mondo racchiuso in un soffio d'istante,<br>
+                                lì nasce poesia, vita pulsante.<br>
                             </p>
-                            <div class="btn-link d-flex justify-content-center">
-                                <a href="#" class="btn btn-md-square btn-light btn-light-outline-0 me-2"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#" class="btn btn-md-square btn-light btn-light-outline-0 me-2"><i class="fab fa-twitter"></i></a>
-                                <a href="#" class="btn btn-md-square btn-light btn-light-outline-0 me-2"><i class="fab fa-instagram"></i></a>
-                                <a href="#" class="btn btn-md-square btn-light btn-light-outline-0 me-0"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 text-end">
-                        <div class="footer-item d-flex flex-column">
-                            <h4 class="mb-4 text-white">Follow Us</h4>
-                            <a href="#" class="btn-link"> Faceboock</a>
-                            <a href="#" class="btn-link"> Instagram</a>
-                            <a href="#" class="btn-link"> Twitter</a>
-                            <h4 class="my-4 text-white">Contact Us</h4>
-                            <a href="#" class="btn-link"><i class="fas fa-envelope text-secondary me-2"></i> info@example.com</a>
-                            <a href="#" class="btn-link"><i class="fas fa-phone text-secondary me-2"></i> (+012) 3456 7890 123</a>
                         </div>
                     </div>
                 </div>
@@ -833,7 +811,7 @@
             <div class="container">
                 <div class="row g-4 align-items-center">
                     <div class="col-md-6 text-center text-md-start mb-md-0">
-                        <span class="text-light"><a href="#"><i class="fas fa-copyright text-light me-2"></i>Your Site Name</a>, All right reserved.</span>
+                        <span class="text-light"><a href="#"><i class="fas fa-copyright text-light me-2"></i>Grazia e Pietro</a></span>
                     </div>
                     <div class="col-md-6 text-center text-md-end text-white">
                         <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->

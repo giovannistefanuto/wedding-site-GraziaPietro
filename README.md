@@ -792,7 +792,7 @@
                                 Han messo su radici e non si sono più spostati<br>
                                 Han messo su radici e non si sono più spostati<br><br>
                                 Salire in cima agli alberi, magnifica avventura<br>
-                                Mele, ciliegie e datteri, tutta frutta matura <br>
+                                Mele, ciliegie e datteri, tutta frutta matura <br><br>
                             </p>
                         </div>
                     </div>

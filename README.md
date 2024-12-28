@@ -91,7 +91,6 @@
                                     <h4 class="text-white text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">02 Giugno 2025</h4>
                                 </div>
                                 <div class="d-flex align-items-center justify-content-center">
-                                    
                                 </div>
                             </div>
                         </div>

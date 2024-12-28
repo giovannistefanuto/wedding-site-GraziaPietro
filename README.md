@@ -121,7 +121,14 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="img/carosello3.jpg" class="img-fluid bg-secondary" alt="Image" style="object-position: 30% 67%;">
+                        <img src="img/carosello3.jpg" class="img-fluid" alt="Image">
+                        <style>
+                            @media (max-width: 767px) {
+                                .carousel-item img {
+                                    object-position: 50% 50%;
+                                }
+                            }
+                        </style>
                         <div class="carousel-caption">
                             <div class="p-3 mx-auto animated zoomIn" style="max-width: 900px;">
                                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4" style="border-style: double;">

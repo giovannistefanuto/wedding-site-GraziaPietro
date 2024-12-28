@@ -80,7 +80,7 @@
                 </ol>
                 <div class="carousel-inner" role="listbox">
                     <div class="carousel-item active">
-                        <img src="img/carousel-1.jpg" class="img-fluid" alt="Image">
+                        <img src="img/carosello1.jpg" class="img-fluid" alt="Image" style="object-position: 50% 40%;">
                         <div class="carousel-caption">
                             <div class="p-3 mx-auto animated zoomIn" style="max-width: 900px;">
                                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4" style="border-style: double;">
@@ -91,13 +91,13 @@
                                     <h4 class="text-white text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">02 Giugno 2025</h4>
                                 </div>
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <a class="btn btn-primary btn-primary-outline-0 py-3 px-5" href="#">RSVP Now</a>
+                                    
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="img/carousel-2.jpg" class="img-fluid" alt="Image">
+                        <img src="img/carosello2.jpg" class="img-fluid" alt="Image">
                         <div class="carousel-caption">
                             <div class="p-3 mx-auto animated zoomIn" style="max-width: 900px;">
                                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-5" style="border-style: double;">
@@ -108,13 +108,13 @@
                                     <h4 class="text-white text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">02 Giugno2025</h4>
                                 </div>
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <a class="btn btn-primary btn-primary-outline-0 py-3 px-5" href="#">RSVP Now</a>
+                                    
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="img/carousel-3.png" class="img-fluid bg-secondary" alt="Image">
+                        <img src="img/carosello3.jpg" class="img-fluid bg-secondary" alt="Image" style="object-position: 30% 67%;">
                         <div class="carousel-caption">
                             <div class="p-3 mx-auto animated zoomIn" style="max-width: 900px;">
                                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4" style="border-style: double;">
@@ -125,7 +125,7 @@
                                     <h4 class="text-white text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">02 Giugno 2025</h4>
                                 </div>
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <a class="btn btn-primary btn-primary-outline-0 py-3 px-5" href="#">RSVP Now</a>
+                                    
                                 </div>
                             </div>
                         </div>

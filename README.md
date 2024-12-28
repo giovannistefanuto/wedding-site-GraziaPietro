@@ -126,6 +126,7 @@
                             @media (max-width: 767px) {
                                 .carousel-item img {
                                     object-position: center center;
+                                    transform: scale(1.2);
                                 }
                             }
                         </style>

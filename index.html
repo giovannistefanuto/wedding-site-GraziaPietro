@@ -125,7 +125,7 @@
                         <style>
                             @media (max-width: 767px) {
                                 .carousel-item img {
-                                    object-position: center bottom;
+                                    object-position: center center;
                                 }
                             }
                         </style>

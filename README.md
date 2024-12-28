@@ -84,7 +84,7 @@
                         <div class="carousel-caption">
                             <div class="p-3 mx-auto animated zoomIn" style="max-width: 900px;">
                                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4" style="border-style: double;">
-                                    <h4 class="text-white text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">CI SPOSIAMO, FINALMENTE!</h4>
+                                    <h4 class="text-white text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">CI SPOSIAMO!</h4>
                                 </div>
                                 <h1 class="display-1 text-capitalize text-white mb-3">Grazia <i class="fa fa-heart text-primary"></i> Pietro</h1>
                                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-5" style="border-style: double;">
@@ -455,8 +455,8 @@
                             <div class="mb-4 p-3 d-inline-flex">
                                 <i class="fas fa-map-marker-alt text-primary fa-3x"></i>
                             </div>
-                            <h3 class="text-dark">LUOGO DELLA CELEBRAZIONE:</h3>
-                            <p class="text-dark">Santuario della Madonna del Monte di Marsure, Costa di, Via del Santuario, 43, 33081 Aviano PN<br><br>Ogni avventura inizia da qualche parte...</p>
+                            <h3 class="text-dark">Luogo della Celebrazione:</h3>
+                            <p class="text-dark">Santuario della Madonna del Monte di Marsure, Costa di, Via del Santuario, 43, 33081 Aviano PN<br><br>Avendo vissuto in otto case... <br>abbiamo scelto la nona: quella del cuore. </p>
                         </div>
                     </div>
                     <div class="col-12 border border-top-0 border-start-0">
@@ -464,9 +464,8 @@
                             <div class="mb-4 p-3 d-inline-flex">
                                 <i class="fas fa-clock text-primary fa-3x"></i>
                             </div>
-                            <h3 class="text-dark">QUANDO:</h3>
-                            <p class="text-dark">11:30, 02 Giugno 2025
-                                <br><br>Ammettilo, anche tu non vedi l'ora...
+                            <h3 class="text-dark">Quando:</h3>
+                            <p class="text-dark">Lunedi 02 Giugno 2025, ore 11:30.<br><br>Il tempo è denaro.<br>Infatti non ne abbiamo.</p>
                             </p>
                         </div>
                     </div>
@@ -475,8 +474,8 @@
                             <div class="mb-4 p-3 d-inline-flex">
                                 <i class="fas fa-road text-primary fa-3x"></i>
                             </div>
-                            <h3 class="text-dark">STRADA:</h3>
-                            <p class="text-dark">Percorrendo la Pedemontana Orientale, subito dopo l'incrocio di Aviano, troverete l'indicazione per il Santuario.<br>Dopo pochi minuti, alla fine del paese, dovrete intraprendere una strada in salita.<br>Non temete, è una strada per ogni tipo di stomaco: con qualche tornante sarete già arrivati allo spiazzo dei parcheggi!<br><br>In fondo ogni cammino verso il matrimonio può essere più o meno tortuoso, no?</p>
+                            <h3 class="text-dark">Strada:</h3>
+                            <p class="text-dark">Percorrendo la Pedemontana Orientale, subito dopo l'incrocio di Aviano, troverete l'indicazione per il Santuario.<br>Dopo pochi minuti, alla fine del paese, dovrete intraprendere una leggera salita.<br>Non temete, è una strada per ogni tipo di stomaco: con qualche tornante sarete già arrivati allo spiazzo dei parcheggi!<br><br>In fondo ogni cammino verso il matrimonio può essere più o meno tortuoso, no?</p>
                         </div>
                     </div>
                     <div class="col-12 border border-top-0">
@@ -486,8 +485,7 @@
                             </div>
                             <h3 class="text-dark">Parcheggio:</h3>
                             <p class="text-dark">Appena giunti alla fine della strada che risale la collina, troverete due parcheggi disponibili: a sinistra uno asfaltato e a destra uno su sterrato.<br>
-                                Nell'eventualità in cui fossero pieni entrambi, percorrete la strada alla destra del parcheggio sterrato e arriverete ad un terzo parcheggio sopraelevato.<br>
-                                Dai parcheggi vedrete solo il retro del santuario: costeggiate il lato con la stradina di fiori e sassi e arriverete all'entrata principale!<br><br>Dietro ogni grande matrimonio, c'è sempre un parcheggio stra pieno: se arrivi in anticipo non avrai problemi!</p>
+                                Dai parcheggi vedrete solo il retro del santuario: costeggiate il lato con la stradina di fiori e sassi e arriverete all'entrata principale!<br><br>Dietro ogni grande matrimonio, c'è sempre un parcheggio stra pieno: se arriverete in anticipo non avrai problemi!</p>
                         </div>
                     </div>
                 </div>
@@ -513,7 +511,7 @@
             </div>
             <div class="container position-relative py-5">
                 <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
-                    <h1 class="display-2 text-dark">Wedding Gallery</h1>
+                    <h1 class="display-2 text-dark">Gallery</h1>
                     <p class="fs-5 text-dark">Qui troverai tutte le foto che cerchi, e anche di più!<br>Si beh, dopo il matrimonio</p>
                 </div>
                 <!--
@@ -786,13 +784,13 @@
                     <div class="col-lg-4 text-center">
                         <div class="footer-item">
                             <h4 class="mb-4 text-white">Grace<strong class="text-primary">&</strong>Pit</h4>
-                            <p class="text-white">Gli alberi sono alti, ci guardano passarev
+                            <p class="text-white">Gli alberi sono alti, ci guardano passare<br>
                                 Dal ciglio della strada che arriva fino al mare<br>
                                 A furia di star fermi nel bosco e in mezzo ai prati<br>
                                 Han messo su radici e non si sono più spostati<br>
                                 Han messo su radici e non si sono più spostati<br><br>
                                 Salire in cima agli alberi, magnifica avventura<br>
-                                Mele, ciliegie e datteri, tutta frutta matura <br><br>
+                                Mele, ciliegie e datteri, tutta frutta matura <br>
                             </p>
                         </div>
                     </div>

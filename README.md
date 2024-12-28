@@ -91,16 +91,17 @@
                                     <h4 class="text-white text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">02 Giugno 2025</h4>
                                 </div>
                                 <div class="d-flex align-items-center justify-content-center">
+                                    
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="img/carosello2.jpg" class="img-fluid" alt="Image">
+                        <img src="img/carosello2.jpg" class="img-fluid bg-secondary" alt="Image">
                         <style>
                             @media (max-width: 767px) {
                                 .carousel-item img {
-                                    object-position: 0% 50%;
+                                    object-position: 20% 50%;
                                 }
                             }
                         </style>
@@ -120,12 +121,11 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="img/carosello3.jpg" class="img-fluid bg-secondary" alt="Image" style="object-position: 30% 67%;">
+                        <img src="img/carosello3.jpg" class="img-fluid bg-secondary" alt="Image" style="object-position: 50% 70%;">
                         <style>
                             @media (max-width: 767px) {
-                                /* Sposta l'immagine più in su e più a destra di una percentuale su dispositivi mobili */
                                 .carousel-item img {
-                                    object-position: 40% 90%;
+                                     object-position: 50% 70%;
                                 }
                             }
                         </style>

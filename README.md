@@ -101,7 +101,7 @@
                         <style>
                             @media (max-width: 767px) {
                                 .carousel-item img {
-                                    object-position: 90% 50%;
+                                    object-position: 40% 50%;
                                 }
                             }
                         </style>

@@ -98,6 +98,13 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/carosello2.jpg" class="img-fluid" alt="Image">
+                        <style>
+                            @media (max-width: 767px) {
+                                .carousel-item img {
+                                    object-position: 70% 50%;
+                                }
+                            }
+                        </style>
                         <div class="carousel-caption">
                             <div class="p-3 mx-auto animated zoomIn" style="max-width: 900px;">
                                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-5" style="border-style: double;">
@@ -115,6 +122,14 @@
                     </div>
                     <div class="carousel-item">
                         <img src="img/carosello3.jpg" class="img-fluid bg-secondary" alt="Image" style="object-position: 30% 67%;">
+                        <style>
+                            @media (max-width: 767px) {
+                                /* Sposta l'immagine più in su e più a destra di una percentuale su dispositivi mobili */
+                                .carousel-item img {
+                                    object-position: 40% 90%;
+                                }
+                            }
+                        </style>
                         <div class="carousel-caption">
                             <div class="p-3 mx-auto animated zoomIn" style="max-width: 900px;">
                                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4" style="border-style: double;">
@@ -201,7 +216,7 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-xl-6 wow fadeIn" data-wow-delay="0.1s">
                         <div class="border-white bg-primary" style="border-style: double;">
-                            <img src="img/about-1.jpg" class="img-fluid w-100" alt="">
+                            <img src="img/about1NUOVA.jpg" class="img-fluid w-100" alt="">
                         </div>
                     </div>
                     <div class="col-xl-6">

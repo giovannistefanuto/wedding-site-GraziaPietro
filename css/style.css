@@ -188,6 +188,23 @@
     border-right: 15px solid var(--bs-primary);
     border-left: 15px solid var(--bs-primary);
 }
+
+@media (max-width: 767px) {
+    /* Seleziona la terza immagine del carosello */
+    #carouselId .carousel-item:nth-child(3) img {
+        object-fit: contain;
+        height: 150vh;
+        width: 150%;
+        margin-top: -70%;
+        margin-left: -25%;
+    }
+
+    #carouselId .carousel-item:nth-child(3) .carousel-caption {
+        top: 50%; /* Sposta la didascalia verso il centro */
+        transform: translateY(-50%); /* Centra verticalmente */
+    }
+}
+
 /*** Carousel End ***/
 
 

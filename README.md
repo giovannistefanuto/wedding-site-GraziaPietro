@@ -456,7 +456,7 @@
                                 <i class="fas fa-map-marker-alt text-primary fa-3x"></i>
                             </div>
                             <h3 class="text-dark">Luogo della Celebrazione:</h3>
-                            <p class="text-dark">Santuario della Madonna del Monte di Marsure, Costa di, Via del Santuario, 43, 33081 Aviano PN<br><br>Avendo vissuto in otto case... <br>abbiamo scelto la nona: quella del cuore. </p>
+                            <p class="text-dark"><b>Santuario della Madonna del Monte di Marsure, Costa di, Via del Santuario, 43, 33081 Aviano PN</b><br><br>Avendo vissuto in otto case... <br>abbiamo scelto la nona: quella del cuore. </p>
                         </div>
                     </div>
                     <div class="col-12 border border-top-0 border-start-0">
@@ -465,7 +465,7 @@
                                 <i class="fas fa-clock text-primary fa-3x"></i>
                             </div>
                             <h3 class="text-dark">Quando:</h3>
-                            <p class="text-dark">Lunedi 02 Giugno 2025, ore 11:30.<br><br>Il tempo è denaro.<br>Infatti non ne abbiamo.</p>
+                            <p class="text-dark"><b>Lunedi 02 Giugno 2025, ore 11:30.</b><br><br>Il tempo è denaro.<br>Infatti non ne abbiamo.</p>
                             </p>
                         </div>
                     </div>
@@ -475,7 +475,7 @@
                                 <i class="fas fa-road text-primary fa-3x"></i>
                             </div>
                             <h3 class="text-dark">Strada:</h3>
-                            <p class="text-dark">Percorrendo la Pedemontana Orientale, subito dopo l'incrocio di Aviano, troverete l'indicazione per il Santuario.<br>Dopo pochi minuti, alla fine del paese, dovrete intraprendere una leggera salita.<br>Non temete, è una strada per ogni tipo di stomaco: con qualche tornante sarete già arrivati allo spiazzo dei parcheggi!<br><br>In fondo ogni cammino verso il matrimonio può essere più o meno tortuoso, no?</p>
+                            <p class="text-dark">Percorrendo la <b>Pedemontana Orientale</b>, subito dopo l'incrocio di Aviano, troverete l'<b>indicazione per il Santuario</b>.<br>Dopo pochi minuti, alla fine del paese, dovrete intraprendere una <b>leggera salita</b>.<br>Non temete, è una strada per ogni tipo di stomaco: con qualche tornante sarete già arrivati allo spiazzo dei parcheggi!<br><br>In fondo ogni cammino verso il matrimonio può essere più o meno tortuoso, no?</p>
                         </div>
                     </div>
                     <div class="col-12 border border-top-0">
@@ -484,8 +484,8 @@
                                 <i class="fas fa-parking text-primary fa-3x"></i>
                             </div>
                             <h3 class="text-dark">Parcheggio:</h3>
-                            <p class="text-dark">Appena giunti alla fine della strada che risale la collina, troverete due parcheggi disponibili: a sinistra uno asfaltato e a destra uno su sterrato.<br>
-                                Dai parcheggi vedrete solo il retro del santuario: costeggiate il lato con la stradina di fiori e sassi e arriverete all'entrata principale!<br><br>Dietro ogni grande matrimonio, c'è sempre un parcheggio stra pieno: se arriverete in anticipo non avrai problemi!</p>
+                            <p class="text-dark">Appena giunti alla <b>fine della strada</b> che risale la collina, troverete <b>due parcheggi disponibili</b>: a sinistra uno asfaltato e a destra uno su sterrato.<br>
+                                Dai parcheggi vedrete solo il retro del santuario: <b>costeggiate il lato con la stradina</b> di fiori e sassi e arriverete all'entrata principale!<br><br>Dietro ogni grande matrimonio, c'è sempre un parcheggio stra pieno: se arriverete in anticipo non avrete problemi!</p>
                         </div>
                     </div>
                 </div>

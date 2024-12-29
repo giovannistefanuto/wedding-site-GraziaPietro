@@ -97,11 +97,11 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="img/carosello2.jpg" class="img-fluid" alt="Image">
+                        <img src="img/carosello2NUOVA.jpg" class="img-fluid" alt="Image">
                         <style>
                             @media (max-width: 767px) {
                                 .carousel-item img {
-                                    object-position: -40% 50%;
+                                    object-position: 30% 50%;
                                 }
                             }
                         </style>

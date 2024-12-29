@@ -97,7 +97,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="img/carosello2NUOVA.jpg" class="img-fluid" alt="Image">
+                        <img src="img/carosello2NUOVANUOVA.png" class="img-fluid" alt="Image">
                         <style>
                             @media (max-width: 767px) {
                                 .carousel-item img {

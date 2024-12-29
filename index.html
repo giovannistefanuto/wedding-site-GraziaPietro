@@ -97,11 +97,11 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="img/Carosello2NUOVANUOVANUOVA.png" class="img-fluid" alt="Image">
+                        <img src="img/carosello3.jpg" class="img-fluid" alt="Image">
                         <style>
                             @media (max-width: 767px) {
                                 .carousel-item img {
-                                    object-position: 30% 50%;
+                                    object-position: 50% 50%;
                                 }
                             }
                         </style>
@@ -121,11 +121,11 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="img/carosello3.jpg" class="img-fluid" alt="Image">
+                        <img src="img/Carosello2NUOVANUOVANUOVA.png" class="img-fluid" alt="Image">
                         <style>
                             @media (max-width: 767px) {
                                 .carousel-item img {
-                                    object-position: 50% 50%;
+                                    object-position: 30% 50%;
                                 }
                             }
                         </style>

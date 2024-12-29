@@ -147,10 +147,10 @@
         <!-- Hello! Start -->
         <div class="container-fluid position-relative py-5" id="weddingAbout">
             <div class="position-absolute" style="top: -35px; right: 0;">
-                <img src="img/tamp-bg-1.png" class="img-fluid" alt="">
+                <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
             </div>
             <div class="position-absolute" style="top: -10px; left: 0; transform: rotate(150deg);">
-                <img src="img/tamp-bg-1.png" class="img-fluid" alt="">
+                <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
             </div>
             <div class="container position-relative py-5">
                 <div class="mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800;">
@@ -281,10 +281,10 @@
         <!-- Story Start -->
         <div class="container-fluid story position-relative py-5" id="weddingStory">
             <div class="position-absolute" style="top: -35px; right: 0;">
-                <img src="img/tamp-bg-1.png" class="img-fluid" alt="">
+                <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
             </div>
             <div class="position-absolute" style="top: -15px; left: 0; transform: rotate(150deg);">
-                <img src="img/tamp-bg-1.png" class="img-fluid" alt="">
+                <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
             </div>
             <div class="container position-relative py-5">
                 <div class="text-center mb-5 wow fadeInUp" data-wow-delay="0.1s">
@@ -357,10 +357,10 @@
         <!--- Wedding Date -->
         <div class="container-fluid wedding-date-bg position-relative py-5">
             <div class="position-absolute" style="top: -100px; right: 0;">
-            <img src="img/tamp-bg-1.png" class="img-fluid" alt="">
+            <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
             </div>
             <div class="position-absolute" style="top: -80px; left: 0; transform: rotate(150deg);">
-            <img src="img/tamp-bg-1.png" class="img-fluid" alt="">
+            <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
             </div>
             <div class="container py-5 wow zoomIn" data-wow-delay="0.1s">
             <div class="wedding-date text-center bg-light p-5" style="border-style: double !important; border: 15px solid rgba(253, 93, 93, 0.5);">
@@ -504,10 +504,10 @@
         <!-- Gallery Start -->
         <div class="container-fluid gallery position-relative py-5" id="weddingGallery">
             <div class="position-absolute" style="top: -95px; right: 0;">
-                <img src="img/tamp-bg-1.png" class="img-fluid" alt="">
+                <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
             </div>
             <div class="position-absolute" style="top: -80px; left: 0; transform: rotate(150deg);">
-                <img src="img/tamp-bg-1.png" class="img-fluid" alt="">
+                <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
             </div>
             <div class="container position-relative py-5">
                 <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">

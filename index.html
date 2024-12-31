@@ -295,7 +295,7 @@
                     <div class="row wow fadeInUp" data-wow-delay="0.2s">
                         <div class="col-md-6 text-end border-0 border-top border-end border-secondary p-4">
                             <div class="d-inline-flex align-items-center h-100">
-                                <img src="img/story-1.jpg" class="img-fluid w-100 img-border" alt="">
+                                <img src="img/story-1NUOVA.jpg" class="img-fluid w-100 img-border" alt="">
                             </div>
                         </div>
                         <div class="col-md-6 border-start border-top border-secondary p-4 pe-0">
@@ -316,14 +316,14 @@
                         </div>
                         <div class="col-md-6 border-start border-top border-secondary p-4">
                             <div class="d-inline-flex align-items-center h-100">
-                                <img src="img/story-2.jpg" class="img-fluid w-100 img-border" alt="">
+                                <img src="img/story-2NUOVA.jpg" class="img-fluid w-100 img-border" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="row wow fadeInUp" data-wow-delay="0.4s">
                         <div class="col-md-6 text-end border-end border-top border-secondary p-4 ps-0">
                             <div class="d-inline-flex align-items-center h-100">
-                                <img src="img/story-3.jpg" class="img-fluid w-100 img-border" alt="">
+                                <img src="img/story-3NUOVA.jpg" class="img-fluid w-100 img-border" alt="">
                             </div>
                         </div>
                         <div class="col-md-6 border-start border-top border-secondary p-4 pe-0">
@@ -344,7 +344,7 @@
                         </div>
                         <div class="col-md-6 border border-end-0 border-secondary p-4">
                             <div class="d-inline-flex align-items-center h-100">
-                                <img src="img/story-4.jpg" class="img-fluid w-100 img-border" alt="">
+                                <img src="img/story-4NUOVA.jpg" class="img-fluid w-100 img-border" alt="">
                             </div>
                         </div>
                     </div>

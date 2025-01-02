@@ -3,13 +3,17 @@
 
     // Spinner
     var spinner = function () {
-        // Mostra lo spinner per 2 secondi prima di rimuoverlo
-        setTimeout(function () {
-            if ($('#spinner').length > 0) {
-                $('#spinner').removeClass('show'); // Rimuove la classe 'show' per nascondere lo spinner
-            }
-        }, 2000); // 2000 ms = 2 secondi
+        if ($('#spinner').length > 0) {
+            // Aggiungi la classe 'show' allo spinner per assicurarti che sia visibile inizialmente
+            $('#spinner').addClass('show');
+        }
+
+        // Rimuovi lo spinner quando la finestra è completamente caricata
+        $(window).on('load', function () {
+            $('#spinner').removeClass('show');
+        });
     };
+
     spinner();
 
     // Initiate the wowjs

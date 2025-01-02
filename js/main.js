@@ -3,8 +3,8 @@
 
     // Spinner
     var spinner = function () {
+        // Assicurati che lo spinner sia visibile inizialmente
         if ($('#spinner').length > 0) {
-            // Aggiungi la classe 'show' allo spinner per assicurarti che sia visibile inizialmente
             $('#spinner').addClass('show');
         }
 
@@ -12,6 +12,13 @@
         $(window).on('load', function () {
             $('#spinner').removeClass('show');
         });
+
+        // Rimuovi lo spinner automaticamente dopo 5 secondi (massimo)
+        setTimeout(function () {
+            if ($('#spinner').hasClass('show')) {
+                $('#spinner').removeClass('show');
+            }
+        }, 5000); // 5000 ms = 5 secondi
     };
 
     spinner();

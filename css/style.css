@@ -3,12 +3,10 @@
 #spinner {
     opacity: 1;
     visibility: visible;
-    transition: opacity .8s ease-out, visibility 0s linear .5s;
+    transition: opacity 0.8s ease-out, visibility 0s linear 0.5s;
+    z-index: 99999;
 }
-#spinner.show {
-    opacity: 1;
-    visibility: visible;
-}
+
 #spinner:not(.show) {
     opacity: 0;
     visibility: hidden;

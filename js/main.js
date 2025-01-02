@@ -3,11 +3,12 @@
 
     // Spinner
     var spinner = function () {
+        // Mostra lo spinner per 2 secondi prima di rimuoverlo
         setTimeout(function () {
             if ($('#spinner').length > 0) {
-                $('#spinner').removeClass('show');
+                $('#spinner').removeClass('show'); // Rimuove la classe 'show' per nascondere lo spinner
             }
-        }, 1);
+        }, 2000); // 2000 ms = 2 secondi
     };
     spinner();
 
@@ -50,11 +51,6 @@
     $('.back-to-top').click(function () {
         $('html, body').animate({ scrollTop: 0 }, 1500, 'easeInOutExpo');
         return false;
-    });
-
-    // Aggiungi qui il nuovo evento per rimuovere lo spinner al caricamento
-    $(window).on('load', function () {
-        $('#spinner').removeClass('show');
     });
 
 })(jQuery);

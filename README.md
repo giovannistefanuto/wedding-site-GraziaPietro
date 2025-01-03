@@ -300,7 +300,7 @@
                         </div>
                         <div class="col-md-6 border-start border-top border-secondary p-4 pe-0">
                             <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4">
-                                <h4 class="mb-2 text-dark">il primo incontro: Find the Light</h4>
+                                <h4 class="mb-2 text-dark">Il primo incontro: Find the Light</h4>
                                 <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p>
                                 <p class="m-0 fs-5">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
                             </div>

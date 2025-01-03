@@ -295,12 +295,12 @@
                     <div class="row wow fadeInUp" data-wow-delay="0.2s">
                         <div class="col-md-6 text-end border-0 border-top border-end border-secondary p-4">
                             <div class="d-inline-flex align-items-center h-100">
-                                <img src="img/story-1NUOVA.jpg" class="img-fluid w-100 img-border" alt="">
+                                <img src="img/story-1-RAPUNZEL.jpg.jpg" class="img-fluid w-100 img-border" alt="">
                             </div>
                         </div>
                         <div class="col-md-6 border-start border-top border-secondary p-4 pe-0">
                             <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4">
-                                <h4 class="mb-2 text-dark">First Meet</h4>
+                                <h4 class="mb-2 text-dark">il primo incontro: Find the Light</h4>
                                 <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p>
                                 <p class="m-0 fs-5">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
                             </div>
@@ -309,26 +309,26 @@
                     <div class="row flex-column-reverse flex-md-row wow fadeInUp" data-wow-delay="0.3s">
                         <div class="col-md-6 text-end border-end border-top border-secondary p-4 ps-0">
                             <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4">
-                                <h4 class="text-dark mb-2">First Date</h4>
+                                <h4 class="text-dark mb-2">Poi disse: "Andiamo a prenderci un gelato?"</h4>
                                 <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p>
                                 <p class="m-0 fs-5">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
                             </div>
                         </div>
                         <div class="col-md-6 border-start border-top border-secondary p-4">
                             <div class="d-inline-flex align-items-center h-100">
-                                <img src="img/story-2NUOVA.jpg" class="img-fluid w-100 img-border" alt="">
+                                <img src="img/story-2-RAPUNZEL.jpg.jpg" class="img-fluid w-100 img-border" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="row wow fadeInUp" data-wow-delay="0.4s">
                         <div class="col-md-6 text-end border-end border-top border-secondary p-4 ps-0">
                             <div class="d-inline-flex align-items-center h-100">
-                                <img src="img/story-3NUOVA.jpg" class="img-fluid w-100 img-border" alt="">
+                                <img src="img/story-3-RAPUNZEL.jpg.jpg" class="img-fluid w-100 img-border" alt="">
                             </div>
                         </div>
                         <div class="col-md-6 border-start border-top border-secondary p-4 pe-0">
                             <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4">
-                                <h4 class="text-dark mb-2">Proposal</h4>
+                                <h4 class="text-dark mb-2">Un discernimento grande, come il numero di città coinvolte</h4>
                                 <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p>
                                 <p class="m-0 fs-5">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
                             </div>
@@ -337,14 +337,14 @@
                     <div class="row flex-column-reverse flex-md-row wow fadeInUp" data-wow-delay="0.5s">
                         <div class="col-md-6 text-end border border-start-0 border-secondary p-4 ps-0">
                             <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4">
-                                <h4 class="text-dark mb-2">Enagagement</h4>
+                                <h4 class="text-dark mb-2">Ci sposiamo!</h4>
                                 <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p>
                                 <p class="m-0 fs-5">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
                             </div>
                         </div>
                         <div class="col-md-6 border border-end-0 border-secondary p-4">
                             <div class="d-inline-flex align-items-center h-100">
-                                <img src="img/story-4NUOVA.jpg" class="img-fluid w-100 img-border" alt="">
+                                <img src="img/story-4RAPUNZEL.jpg.jpg" class="img-fluid w-100 img-border" alt="">
                             </div>
                         </div>
                     </div>

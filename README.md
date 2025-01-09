@@ -649,7 +649,7 @@
         <div class="container-fluid RSVP-form py-5" id="weddingRsvp">
             <div class="container py-5">
             <div class="mb-5 text-center mx-auto wow fadeIn" data-wow-delay="0.1s" style="max-width: 800px;">
-                <h1 class="display-2" style="font-family: 'Petit Formal Script', coursive;">RSVP Form</h1>
+                <h1 class="display-2" style="font-family: 'Petit Formal Script', cursive; color:#fd5d5d;">RSVP Form</h1>
             </div>
             <div class="row justify-content-center">
                 <div class="col-md-10">

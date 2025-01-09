@@ -295,12 +295,12 @@
                     <div class="row wow fadeInUp" data-wow-delay="0.2s">
                         <div class="col-md-6 text-end border-0 border-top border-end border-secondary p-4">
                             <div class="d-inline-flex align-items-center h-100">
-                                <img src="img\story-1-RAPUNZEL.jpg" class="img-fluid w-100 img-border" alt="">
+                                <img src="img\STORY1_RAPUNZEL_SCREEN.png" class="img-fluid w-100 img-border" alt="">
                             </div>
                         </div>
                         <div class="col-md-6 border-start border-top border-secondary p-4 pe-0">
                             <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4">
-                                <h4 class="mb-2 text-dark">Il primo incontro: Find the Light</h4>
+                                <h4 class="mb-2 text-dark">il primo incontro: Find the Light</h4>
                                 <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p>
                                 <p class="m-0 fs-5">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
                             </div>
@@ -316,14 +316,14 @@
                         </div>
                         <div class="col-md-6 border-start border-top border-secondary p-4">
                             <div class="d-inline-flex align-items-center h-100">
-                                <img src="img\story-2-RAPUNZEL.jpg" class="img-fluid w-100 img-border" alt="">
+                                <img src="img\STORY2_RAPUNZEL_SCREEN.png" class="img-fluid w-100 img-border" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="row wow fadeInUp" data-wow-delay="0.4s">
                         <div class="col-md-6 text-end border-end border-top border-secondary p-4 ps-0">
                             <div class="d-inline-flex align-items-center h-100">
-                                <img src="img\story-3-RAPUNZEL.jpg" class="img-fluid w-100 img-border" alt="">
+                                <img src="img\STORY3_RAPUNZEL_SCREEN.png" class="img-fluid w-100 img-border" alt="">
                             </div>
                         </div>
                         <div class="col-md-6 border-start border-top border-secondary p-4 pe-0">
@@ -344,7 +344,7 @@
                         </div>
                         <div class="col-md-6 border border-end-0 border-secondary p-4">
                             <div class="d-inline-flex align-items-center h-100">
-                                <img src="img\story-4RAPUNZEL.jpg" class="img-fluid w-100 img-border" alt="">
+                                <img src="img\STORY4_RAPUNZEL_SCREEN.png" class="img-fluid w-100 img-border" alt="">
                             </div>
                         </div>
                     </div>

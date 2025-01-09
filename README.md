@@ -699,12 +699,12 @@
                 if (invitato) {
                     if (invitato.gruppo === "cerimonia") {
                         risultato.innerHTML = `
-                            <p class="text-success">Benvenuto alla cerimonia! Segui il link per segnalare la tua presenza e/o dei tuoi familiari</p>
+                            <p class="text-success"><strong>Benvenuto</strong> alla cerimonia! <strong>Segui il link</strong> per segnalare la tua presenza e/o dei tuoi familiari</p>
                             <a href="https://forms.gle/kzK9r9AXc45e95i86" target="_blank" class="btn btn-primary py-2 px-4">Compila qui il modulo</a>
                         `;
                     } else if (invitato.gruppo === "cerimonia+pranzo") {
                         risultato.innerHTML = `
-                            <p class="text-success">Benvenuto alla cerimonia e al pranzo, segui il link per indicare la tua presenza e/o dei tuoi familiari!</p>
+                            <p class="text-success"><strong>Benvenuto</strong> alla cerimonia! <strong>Segui il link</strong> per segnalare la tua presenza e/o dei tuoi familiari</p>
                             <a href="https://forms.gle/ABQhmjdNMJtzsbVq9" target="_blank" class="btn btn-primary py-2 px-4">Compila qui il modulo</a>
                         `;
                     }

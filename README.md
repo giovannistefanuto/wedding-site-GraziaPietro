@@ -191,9 +191,8 @@
             </div>
         </div>
         <!-- Hello! End -->
-
-
-        <!-- About Start -->
+<!-- 
+         About Start RICORDATI DI RIMETTERE IL COMMENTO QUI E SOTTOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
         <div class="container-fluid position-relative overflow-hidden bg-secondary py-5">
             <img src="img/bg-flower.png" class="img-fluid position-absolute top-0" style="right: -15px; transform: rotate(270deg); opacity: 0.5;" alt="">
             <img src="img/bg-flower.png" class="img-fluid position-absolute" style="bottom: 10px; left: -15px; transform: rotate(90deg); opacity: 0.5;" alt="">
@@ -275,9 +274,8 @@
                 </div>
             </div>
         </div>
-        <!-- About End -->
-
-
+        About End 
+-->
         <!-- Story Start -->
         <div class="container-fluid story position-relative py-5" id="weddingStory">
             <div class="position-absolute" style="top: -35px; right: 0;">
@@ -300,8 +298,8 @@
                         </div>
                         <div class="col-md-6 border-start border-top border-secondary p-4 pe-0">
                             <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4">
-                                <h4 class="mb-2 text-dark">il primo incontro: Find the Light</h4>
-                                <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p>
+                                <h4 class="mb-2 text-dark">Il nostro primo incontro: find the light</h4>
+                                <!-- <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p> -->
                                 <p class="m-0 fs-5">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
                             </div>
                         </div>
@@ -310,7 +308,7 @@
                         <div class="col-md-6 text-end border-end border-top border-secondary p-4 ps-0">
                             <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4">
                                 <h4 class="text-dark mb-2">Poi disse: "Andiamo a prenderci un gelato?"</h4>
-                                <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p>
+                                <!-- <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p> -->
                                 <p class="m-0 fs-5">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
                             </div>
                         </div>
@@ -328,8 +326,8 @@
                         </div>
                         <div class="col-md-6 border-start border-top border-secondary p-4 pe-0">
                             <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4">
-                                <h4 class="text-dark mb-2">Un discernimento grande, come il numero di città coinvolte</h4>
-                                <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p>
+                                <h4 class="text-dark mb-2">Un discernimento grande come il numero di città coinvolte</h4>
+                                <!-- <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p> -->
                                 <p class="m-0 fs-5">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
                             </div>
                         </div>
@@ -338,7 +336,7 @@
                         <div class="col-md-6 text-end border border-start-0 border-secondary p-4 ps-0">
                             <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4">
                                 <h4 class="text-dark mb-2">Ci sposiamo!</h4>
-                                <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p>
+                                <!-- <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p> -->
                                 <p class="m-0 fs-5">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
                             </div>
                         </div>

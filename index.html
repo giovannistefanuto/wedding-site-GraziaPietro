@@ -645,136 +645,81 @@
         </div>
         <!-- Gallery end -->
 
-        <!-- RSVP Form Start -->
+       <!-- RSVP Form Start -->
         <div class="container-fluid RSVP-form py-5" id="weddingRsvp">
             <div class="container py-5">
-                <div class="mb-5 text-center mx-auto wow fadeIn" data-wow-delay="0.1s" style="max-width: 800px;">
-                    <h1 class="display-2 text-primary">RSVP Form</h1>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-md-10">
-                        <div class="p-5 border-secondary position-relative" style="border-style: double;">
-                            <div class="fw-bold text-primary bg-white d-flex align-items-center justify-content-center position-absolute border-secondary p-2 wow fadeIn" data-wow-delay="0.1s" style="width: 75%; border-style: double; top: 0; left: 50%; transform: translate(-50%, -50%);">
-                                Kindly respond by Giugno 25, 2025 we look forward to celebrating with you!
+            <div class="mb-5 text-center mx-auto wow fadeIn" data-wow-delay="0.1s" style="max-width: 800px;">
+                <h1 class="display-2" style="font-family: 'Petit Formal Script', coursive;">RSVP Form</h1>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                <div class="p-5 border-secondary position-relative" style="border-style: double;">
+                    <div class="fw-bold text-primary bg-white d-flex align-items-center justify-content-center position-absolute border-secondary p-2 wow fadeIn" data-wow-delay="0.1s" style="width: 75%; border-style: double; top: 0; left: 50%; transform: translate(-50%, -50%);">
+                       Ma tu ci sei?
+                    </div>
+                    <form onsubmit="return verificaNome(event)">
+                    <div class="row gx-4 gy-3">
+                        <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
+                        <div class="form-group">
+                            <div class="text-center"></div>
+                                <label for="nomeCompleto" class="form-label text-dark">Inserisci il tuo <strong>nome completo</strong> (senza <strong>errori battitura</strong> o soprannomi strambi) per comunicarci la tua presenza<br>(<strong>Esempio: Mario Rossi</strong>)</label>
+                                <input type="text" class="form-control py-3 border-0 text-dark" id="nomeCompleto" placeholder="Nome Cognome">
                             </div>
-                            <form>
-                                <div class="row gx-4 gy-3">
-                                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                                        <div class="form-group">
-                                            <label for="Examplename" class="form-label text-dark">First Name</label>
-                                            <input type="text" class="form-control py-3 border-0" id="Examplename" placeholder="First Name">
-                                          </div>
-                                    </div>
-                                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                                        <div class="form-group">
-                                            <label for="Examplename" class="form-label text-dark">Last Name</label>
-                                            <input type="text" class="form-control py-3 border-0" id="Examplename" placeholder="Last Name">
-                                          </div>
-                                    </div>
-                                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                                        <div class="form-group">
-                                            <label for="Examplename" class="form-label text-dark">Enter Your Email</label>
-                                            <input type="email" class="form-control py-3 border-0" id="Examplename" placeholder="Enter Your Email">
-                                          </div>
-                                    </div>
-                                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                                        <div class="form-group">
-                                            <label for="Examplename" class="form-label text-dark">Enter Your Phone</label>
-                                            <input type="text" class="form-control py-3 border-0" id="Examplename" placeholder="Enter Your Phone">
-                                          </div>
-                                    </div>
-                                    <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
-                                        <div class="form-group">
-                                            <label for="exampleselect" class="form-label text-dark">Number Of Guests</label>
-                                            <select class="form-control bg-white text-dark py-3 border-0" id="exampleselect" placeholder="Number Of Guests">
-                                              <option>Only Me</option>
-                                              <option>02 Guests</option>
-                                              <option>03 Guests</option>
-                                              <option>04 Guests</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
-                                        <div class="form-group">
-                                            <label for="exampletextarea" class="form-label text-dark">Message</label>
-                                            <textarea name="text" class="form-control border-0" id="exampletextarea" cols="30" rows="5" placeholder="Message"></textarea>
-                                        </div>
-                                    </div>
-                                    <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
-                                        <div class="text-center border border-secondary p-4 my-4 position-relative">
-                                            <div class="fw-bold text-primary bg-white d-flex align-items-center justify-content-center position-absolute border-secondary p-2" style="width: 50%; border-style: double; top: 0; left: 50%; transform: translate(-50%, -50%);">
-                                                Will you be attending?
-                                            </div>
-                                            <div class="mt-4">
-                                                <div class="row g-4">
-                                                    <div class="col-lg-6">
-                                                        <div class="d-flex justify-content-center">
-                                                            <div class="form-check d-flex">
-                                                                <input class="form-check-input me-2" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-                                                                <label class="form-check-label text-dark" for="flexRadioDefault1">
-                                                                    Accepts With Pleasure!
-                                                                </label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-6">
-                                                        <div class="d-flex justify-content-center">
-                                                            <div class="form-check d-flex">
-                                                                <input class="form-check-input me-2" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-                                                                <label class="form-check-label text-dark" for="flexRadioDefault1">
-                                                                    Declines With Regret
-                                                                </label>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-12 text-center wow fadeIn" data-wow-delay="0.1s">
-                                        <button class="btn btn-primary btn-primary-outline-0 py-3 px-5">Submit Now</button>
-                                    </div>
-                                </div>
-                            </form>
+                        </div>
+                        </div>
+                        <div class="col-12 text-center wow fadeIn" data-wow-delay="0.1s">
+                        <button type="submit" class="btn btn-primary btn-primary-outline-0 py-3 px-5">Verifica</button>
                         </div>
                     </div>
+                    </form>
+                    <div id="risultato" class="text-center mt-4"></div>
                 </div>
-                <div class="mt-5">
-                <div class="row g-5 justify-content-center text-center">
-                    <div class="col-md-4 wow fadeIn" data-wow-delay="0.1s">
-                        <div class="p-4 border-secondary" style="border-style: double;">
-                            <h4>Problemi? Scrivimi</h4>
-                            <a href="#" class="text-dark">Giovanni: +3318977891</a>
-                        </div>
-                    </div>
-                    <div class="col-md-4 wow fadeIn" data-wow-delay="0.3s">
-                        <div class="p-4 border-secondary" style="border-style: double;">
-                            <h4>Quando</h4>-
-                            <p class="mb-0 text-dark">
-                                02. Giugno 2025. 11:30 del mattino
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 wow fadeIn" data-wow-delay="0.5s">
-                        <div class="p-4 border-secondary" style="border-style: double;">
-                            <h4>Dove</h4>
-                            <p class="mb-0 text-dark">
-                                Santuario della Madonna del Monte di Marsure, Costa di, Via del Santuario, 43, 33081 Aviano PN. 
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-12 wow fadeIn" data-wow-delay="0.2s">
-                        <div class="border-secondary" style="border-style: double;">
-                            <iframe class="w-100" 
-                            style="height: 450px; margin-bottom: -6px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2504.1158498499576!2d12.570715875795935!3d46.08822319158781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477976fd93902009%3A0x7cf785ac08477ede!2sSantuario%20della%20Madonna%20del%20Monte%20di%20Marsure%20%2F%20Madona%20da%20Mont%20di%20Marsuris!5e1!3m2!1sit!2sit!4v1735320901196!5m2!1sit!2sit"
-                            loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        </div>
-                    </div>
                 </div>
             </div>
             </div>
         </div>
+
+        <script>
+            // Lista degli invitati
+            const invitati = [
+                { nome: "Mario Rossi", gruppo: "cerimonia" },
+                { nome: "Giulia Bianchi", gruppo: "cerimonia+pranzo" },
+                { nome: "Giovanni Verdi", gruppo: "cerimonia" }
+            ];
+
+            // Funzione per verificare il nome inserito
+            function verificaNome(event) {
+                event.preventDefault(); // Evita il refresh della pagina
+                const nomeInserito = document.getElementById("nomeCompleto").value.trim().toLowerCase();
+                const risultato = document.getElementById("risultato");
+
+                // Cerca nella lista degli invitati ignorando maiuscole e spazi
+                const invitato = invitati.find(invitato => invitato.nome.toLowerCase() === nomeInserito);
+
+                if (invitato) {
+                    if (invitato.gruppo === "cerimonia") {
+                        risultato.innerHTML = `
+                            <p class="text-success">Benvenuto alla cerimonia! Segui il link per segnalare la tua presenza e/o dei tuoi familiari</p>
+                            <a href="https://forms.gle/kzK9r9AXc45e95i86" target="_blank" class="btn btn-primary py-2 px-4">Compila qui il modulo</a>
+                        `;
+                    } else if (invitato.gruppo === "cerimonia+pranzo") {
+                        risultato.innerHTML = `
+                            <p class="text-success">Benvenuto alla cerimonia e al pranzo, segui il link per indicare la tua presenza e/o dei tuoi familiari!</p>
+                            <a href="https://forms.gle/ABQhmjdNMJtzsbVq9" target="_blank" class="btn btn-primary py-2 px-4">Compila qui il modulo</a>
+                        `;
+                    }
+                } else {
+                    risultato.innerHTML = `
+                        <p class="text-danger">Nome non trovato. Sei sicuro di averlo inserito correttamente? <br> Controlla che non ci siano <strong>spazi o errori di battitura</strong> (Esempio corretto: Giovanni Maria Stefanuto) <br> Per problemi, <strong>scrivere su Whatsapp a Giovanni: +3318977891</strong></p>
+                            </p>
+
+                      <!-- <a href="https://modulo-generico.example.com" target="_blank" class="btn btn-secondary py-2 px-4">Modulo generico per verifiche</a> -->
+                    `;
+                }
+            }
+        </script>
         <!-- RSVP Form End -->
+
 
 
         <!-- Footer Start -->

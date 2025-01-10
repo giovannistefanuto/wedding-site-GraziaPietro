@@ -702,7 +702,7 @@
                         `;
                     } else if (invitato.gruppo === "cerimonia+pranzo") {
                         risultato.innerHTML = `
-                            <p class="text-success"><strong>Benvenuto</strong> alla cerimonia! <strong>Segui il link</strong> per segnalare la tua presenza e/o dei tuoi familiari</p>
+                            <p class="text-success"><strong>Benvenuto</strong> al ricevimento! <strong>Segui il link</strong> per segnalare la tua presenza e/o dei tuoi familiari</p>
                             <a href="https://forms.gle/GW13wPoFG3hegVRq9" target="_blank" class="btn btn-primary py-2 px-4">Compila qui il modulo</a>
                         `;
                     }

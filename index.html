@@ -698,12 +698,12 @@
                     if (invitato.gruppo === "cerimonia") {
                         risultato.innerHTML = `
                             <p class="text-success"><strong>Benvenuto</strong> alla cerimonia! <strong>Segui il link</strong> per segnalare la tua presenza e/o dei tuoi familiari</p>
-                            <a href="https://forms.gle/kzK9r9AXc45e95i86" target="_blank" class="btn btn-primary py-2 px-4">Compila qui il modulo</a>
+                            <a href="https://forms.gle/rM8itWt9aVLC1iJi9" target="_blank" class="btn btn-primary py-2 px-4">Compila qui il modulo</a>
                         `;
                     } else if (invitato.gruppo === "cerimonia+pranzo") {
                         risultato.innerHTML = `
                             <p class="text-success"><strong>Benvenuto</strong> alla cerimonia! <strong>Segui il link</strong> per segnalare la tua presenza e/o dei tuoi familiari</p>
-                            <a href="https://forms.gle/7bvyzHK57zTtyxmFA" target="_blank" class="btn btn-primary py-2 px-4">Compila qui il modulo</a>
+                            <a href="https://forms.gle/GW13wPoFG3hegVRq9" target="_blank" class="btn btn-primary py-2 px-4">Compila qui il modulo</a>
                         `;
                     }
                 } else {

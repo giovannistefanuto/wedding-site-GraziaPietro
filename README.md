@@ -164,10 +164,10 @@
                                 <div class="d-flex">
                                     <div class="text-end my-auto pe-4">
                                         <h3 class="text-primary mb-3">Grazia</h3>
-                                        <p class="text-dark mb-0" style="line-height: 30px;">Una donna semplice, senza troppe pretese. Vuole sempre e solo la luna, vive come se avesse 35 ore in un giorno.
+                                        <p class="text-dark mb-0" style="line-height: 30px;">Una donna semplice, senza troppe pretese. Vuole sempre la luna, vive come se avesse 35 ore in un giorno.
                                         </p>
                                     </div>
-                                    <img src="img/bride.jpg" class="img-fluid img-border" alt="">
+                                    <img src="img/sposa2.jpg" class="img-fluid img-border" alt="" style="max-width: 40%;">
                                 </div>
                             </div>
                             <div class="col-lg-2 wow fadeIn" data-wow-delay="0.5s">
@@ -177,10 +177,10 @@
                             </div>
                             <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.3s">
                                 <div class="d-flex">
-                                    <img src="img/Groom.jpg" class="img-fluid img-border" alt="">
+                                    <img src="img/sposo2.jpg" class="img-fluid img-border" alt="" style="max-width: 40%;">
                                     <div class="my-auto ps-4">
                                         <h3 class="text-primary mb-3">Pietro</h3>
-                                        <p class="text-dark mb-0" style="line-height: 30px;">Un uomo semplice, senza troppe pretese. Ingegnere, chitarrista, a volte simpatico, chi più ne ha più ne metta.
+                                        <p class="text-dark mb-0" style="line-height: 30px;">Un uomo semplice, senza troppe pretese. Ingegnere, chitarrista, sicuramente pieno di vita (dopo il pisolo).
                                         </p>
                                     </div>
                                 </div>
@@ -362,39 +362,39 @@
             </div>
             <div class="container py-5 wow zoomIn" data-wow-delay="0.1s">
             <div class="wedding-date text-center bg-light p-5" style="border-style: double !important; border: 15px solid rgba(253, 93, 93, 0.5);">
-                <div class="wedding-date-content">
-                <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4" style="border-style: double;">
-                    <h4 class="text-dark text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">02 Giugno 2025</h4>
-                </div>
-                <h1 class="display-4" style="color: red;">Ma scusate, quanto manca?</h1>
-                <p class="text-dark fs-5">Santuario della Madonna del Monte di Marsure, 
-                    Costa di, Via del Santuario, 43, 33081 Aviano PN</p>
-                <div class="d-flex align-items-center justify-content-center mb-5" id="countdown">
-                    <div class="text-dark fs-2 me-4">
+            <div class="wedding-date-content">
+            <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4" style="border-style: double;">
+                <h4 class="text-dark text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">02 Giugno 2025</h4>
+            </div>
+            <h1 class="display-4" style="color: rgb(66, 128, 98);">Ma scusate, quanto manca?</h1>
+            <p class="text-dark fs-5">Santuario della Madonna del Monte di Marsure, 
+                Costa di, Via del Santuario, 43, 33081 Aviano PN</p>
+            <div class="d-flex align-items-center justify-content-center mb-5" id="countdown" style="font-size: 0.5;">
+                <div class="text-dark fs-4 me-4 d-flex flex-column align-items-center">
                     <div id="days">00</div>
-                    <span>Giorni</span>
-                    </div>
-                    <div class="text-dark fs-2 me-4">
+                    <span class="ms-1">D</span>
+                </div>
+                <div class="text-dark fs-4 me-4 d-flex flex-column align-items-center">
                     <div id="hours">00</div>
-                    <span>Ore</span>
-                    </div>
-                    <div class="text-dark fs-2 me-4">
+                    <span>H</span>
+                </div>
+                <div class="text-dark fs-4 me-4 d-flex flex-column align-items-center">
                     <div id="minutes">00</div>
-                    <span>Minuti</span>
-                    </div>
-                    <div class="text-dark fs-2 me-0">
+                    <span>M</span>
+                </div>
+                <div class="text-dark fs-4 me-0 d-flex flex-column align-items-center">
                     <div id="seconds">00</div>
-                    <span>Secondi</span>
-                    </div>
+                    <span>S</span>
                 </div>
+            </div>
            <!--     <a class="btn btn-primary btn-primary-outline-0 py-3 px-5" href="#">Book Your Attendance</a>-->
-                </div>
-                <div class="position-absolute" style="top: 15%; right: -30px; transform: rotate(320deg); opacity: 0.5; z-index: 1;">
-                <img src="img/attendance-bg.png" class="img-fluid" alt="">
-                </div>
-                <div class="position-absolute" style="top: 15%; left: -10px; transform: rotate(-320deg); opacity: 0.5; z-index: 1;">
-                <img src="img/attendance-bg.png" class="img-fluid" alt="">
-                </div>
+            </div>
+            <div class="position-absolute" style="top: 15%; right: -30px; transform: rotate(320deg); opacity: 0.5; z-index: 1;">
+            <img src="img/attendance-bg.png" class="img-fluid" alt="">
+            </div>
+            <div class="position-absolute" style="top: 15%; left: -10px; transform: rotate(-320deg); opacity: 0.5; z-index: 1;">
+            <img src="img/attendance-bg.png" class="img-fluid" alt="">
+            </div>
             </div>
             </div>
         </div>
@@ -498,6 +498,80 @@
     </div>
     <!-- Wedding Timeline End -->
 
+       <!-- RSVP Form Start -->
+        <div class="container-fluid RSVP-form py-5" id="weddingRsvp">
+            <div class="container py-5">
+            <div class="mb-5 text-center mx-auto wow fadeIn" data-wow-delay="0.1s" style="max-width: 800px;">
+                <h1 class="display-2" style="font-family: 'Petit Formal Script', cursive; color:#fd5d5d;">RSVP Form</h1>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                <div class="p-5 border-secondary position-relative" style="border-style: double;">
+                    <div class="fw-bold text-primary bg-white d-flex align-items-center justify-content-center position-absolute border-secondary p-2 wow fadeIn" data-wow-delay="0.1s" style="width: 75%; border-style: double; top: 0; left: 50%; transform: translate(-50%, -50%);">
+                       Ma tu ci sei?
+                    </div>
+                    <form onsubmit="return verificaNome(event)">
+                    <div class="row gx-4 gy-3">
+                        <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
+                        <div class="form-group">
+                            <div class="text-center"></div>
+                                <label for="nomeCompleto" class="form-label text-dark">Inserisci il tuo <strong>nome completo</strong> (senza <strong>errori battitura</strong> o soprannomi strambi) per comunicarci la tua presenza<br>(<strong>Esempio: Mario Rossi</strong>)</label>
+                                <input type="text" class="form-control py-3 border-0 text-dark" id="nomeCompleto" placeholder="Nome Cognome">
+                            </div>
+                        </div>
+                        </div>
+                        <div class="col-12 text-center wow fadeIn" data-wow-delay="0.1s">
+                        <button type="submit" class="btn btn-primary btn-primary-outline-0 py-3 px-5">Verifica</button>
+                        </div>
+                    </div>
+                    </form>
+                    <div id="risultato" class="text-center mt-4"></div>
+                </div>
+                </div>
+            </div>
+            </div>
+        </div>
+
+        <script>
+            // Lista degli invitati
+            const invitati = [
+                { nome: "Mario Rossi", gruppo: "cerimonia" },
+                { nome: "Giulia Bianchi", gruppo: "cerimonia+pranzo" },
+                { nome: "Giovanni Verdi", gruppo: "cerimonia" }
+            ];
+
+            // Funzione per verificare il nome inserito
+            function verificaNome(event) {
+                event.preventDefault(); // Evita il refresh della pagina
+                const nomeInserito = document.getElementById("nomeCompleto").value.trim().toLowerCase();
+                const risultato = document.getElementById("risultato");
+
+                // Cerca nella lista degli invitati ignorando maiuscole e spazi
+                const invitato = invitati.find(invitato => invitato.nome.toLowerCase() === nomeInserito);
+
+                if (invitato) {
+                    if (invitato.gruppo === "cerimonia") {
+                        risultato.innerHTML = `
+                            <p class="text-success"><strong>Benvenuto</strong> alla cerimonia! <strong>Segui il link</strong> per segnalare la tua presenza e/o dei tuoi familiari</p>
+                            <a href="https://forms.gle/rM8itWt9aVLC1iJi9" target="_blank" class="btn btn-primary py-2 px-4">Compila qui il modulo</a>
+                        `;
+                    } else if (invitato.gruppo === "cerimonia+pranzo") {
+                        risultato.innerHTML = `
+                            <p class="text-success"><strong>Benvenuto</strong> al ricevimento! <strong>Segui il link</strong> per segnalare la tua presenza e/o dei tuoi familiari</p>
+                            <a href="https://forms.gle/GW13wPoFG3hegVRq9" target="_blank" class="btn btn-primary py-2 px-4">Compila qui il modulo</a>
+                        `;
+                    }
+                } else {
+                    risultato.innerHTML = `
+                        <p class="text-danger">Nome non trovato. Sei sicuro di averlo inserito correttamente? <br> Controlla che non ci siano <strong>spazi o errori di battitura</strong> (Esempio corretto: Giovanni Maria Stefanuto) <br> Per problemi, <strong>scrivere su Whatsapp a Giovanni: +3318977891</strong></p>
+                            </p>
+
+                      <!-- <a href="https://modulo-generico.example.com" target="_blank" class="btn btn-secondary py-2 px-4">Modulo generico per verifiche</a> -->
+                    `;
+                }
+            }
+        </script>
+        <!-- RSVP Form End -->
 
         <!-- Gallery Start -->
         <div class="container-fluid gallery position-relative py-5" id="weddingGallery">
@@ -638,87 +712,10 @@
                         <a class="btn btn-primary btn-primary-outline-0 py-3 px-5 me-2" href="#">View All <i class="fas fa-arrow-right"></i></a>
                     </div> -->   
                 </div>
-                 
+                
             </div>
         </div>
         <!-- Gallery end -->
-
-       <!-- RSVP Form Start -->
-        <div class="container-fluid RSVP-form py-5" id="weddingRsvp">
-            <div class="container py-5">
-            <div class="mb-5 text-center mx-auto wow fadeIn" data-wow-delay="0.1s" style="max-width: 800px;">
-                <h1 class="display-2" style="font-family: 'Petit Formal Script', cursive; color:#fd5d5d;">RSVP Form</h1>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-md-10">
-                <div class="p-5 border-secondary position-relative" style="border-style: double;">
-                    <div class="fw-bold text-primary bg-white d-flex align-items-center justify-content-center position-absolute border-secondary p-2 wow fadeIn" data-wow-delay="0.1s" style="width: 75%; border-style: double; top: 0; left: 50%; transform: translate(-50%, -50%);">
-                       Ma tu ci sei?
-                    </div>
-                    <form onsubmit="return verificaNome(event)">
-                    <div class="row gx-4 gy-3">
-                        <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
-                        <div class="form-group">
-                            <div class="text-center"></div>
-                                <label for="nomeCompleto" class="form-label text-dark">Inserisci il tuo <strong>nome completo</strong> (senza <strong>errori battitura</strong> o soprannomi strambi) per comunicarci la tua presenza<br>(<strong>Esempio: Mario Rossi</strong>)</label>
-                                <input type="text" class="form-control py-3 border-0 text-dark" id="nomeCompleto" placeholder="Nome Cognome">
-                            </div>
-                        </div>
-                        </div>
-                        <div class="col-12 text-center wow fadeIn" data-wow-delay="0.1s">
-                        <button type="submit" class="btn btn-primary btn-primary-outline-0 py-3 px-5">Verifica</button>
-                        </div>
-                    </div>
-                    </form>
-                    <div id="risultato" class="text-center mt-4"></div>
-                </div>
-                </div>
-            </div>
-            </div>
-        </div>
-
-        <script>
-            // Lista degli invitati
-            const invitati = [
-                { nome: "Mario Rossi", gruppo: "cerimonia" },
-                { nome: "Giulia Bianchi", gruppo: "cerimonia+pranzo" },
-                { nome: "Giovanni Verdi", gruppo: "cerimonia" }
-            ];
-
-            // Funzione per verificare il nome inserito
-            function verificaNome(event) {
-                event.preventDefault(); // Evita il refresh della pagina
-                const nomeInserito = document.getElementById("nomeCompleto").value.trim().toLowerCase();
-                const risultato = document.getElementById("risultato");
-
-                // Cerca nella lista degli invitati ignorando maiuscole e spazi
-                const invitato = invitati.find(invitato => invitato.nome.toLowerCase() === nomeInserito);
-
-                if (invitato) {
-                    if (invitato.gruppo === "cerimonia") {
-                        risultato.innerHTML = `
-                            <p class="text-success"><strong>Benvenuto</strong> alla cerimonia! <strong>Segui il link</strong> per segnalare la tua presenza e/o dei tuoi familiari</p>
-                            <a href="https://forms.gle/rM8itWt9aVLC1iJi9" target="_blank" class="btn btn-primary py-2 px-4">Compila qui il modulo</a>
-                        `;
-                    } else if (invitato.gruppo === "cerimonia+pranzo") {
-                        risultato.innerHTML = `
-                            <p class="text-success"><strong>Benvenuto</strong> al ricevimento! <strong>Segui il link</strong> per segnalare la tua presenza e/o dei tuoi familiari</p>
-                            <a href="https://forms.gle/GW13wPoFG3hegVRq9" target="_blank" class="btn btn-primary py-2 px-4">Compila qui il modulo</a>
-                        `;
-                    }
-                } else {
-                    risultato.innerHTML = `
-                        <p class="text-danger">Nome non trovato. Sei sicuro di averlo inserito correttamente? <br> Controlla che non ci siano <strong>spazi o errori di battitura</strong> (Esempio corretto: Giovanni Maria Stefanuto) <br> Per problemi, <strong>scrivere su Whatsapp a Giovanni: +3318977891</strong></p>
-                            </p>
-
-                      <!-- <a href="https://modulo-generico.example.com" target="_blank" class="btn btn-secondary py-2 px-4">Modulo generico per verifiche</a> -->
-                    `;
-                }
-            }
-        </script>
-        <!-- RSVP Form End -->
-
-
 
         <!-- Footer Start -->
         <div class="container-fluid footer py-5 wow fadeIn" data-wow-delay="0.1s">

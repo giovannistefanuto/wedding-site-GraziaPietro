@@ -510,9 +510,9 @@
             <div class="container position-relative py-5">
                 <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
                     <h1 class="display-2 text-dark">Gallery</h1>
-                    <p class="fs-5 text-dark">Qui troverai tutte le foto che cerchi, e anche di più!<br>Si beh, dopo il matrimonio</p>
+                    <p class="fs-5 text-dark">Qui troverai tutte le foto che cerchi, e anche di più!</p>
                 </div>
-                <!--
+                
                 <div class="row g-4">
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="gallery-item">
@@ -634,11 +634,11 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 text-center wow fadeIn" data-wow-delay="0.2s">
+                <!-- <div class="col-12 text-center wow fadeIn" data-wow-delay="0.2s">
                         <a class="btn btn-primary btn-primary-outline-0 py-3 px-5 me-2" href="#">View All <i class="fas fa-arrow-right"></i></a>
-                    </div>
+                    </div> -->   
                 </div>
-                --> 
+                 
             </div>
         </div>
         <!-- Gallery end -->

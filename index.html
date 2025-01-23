@@ -372,19 +372,19 @@
             <div class="d-flex align-items-center justify-content-center mb-5" id="countdown" style="font-size: 0.5;">
                 <div class="text-dark fs-4 me-4 d-flex flex-column align-items-center">
                     <div id="days">00</div>
-                    <span class="ms-1">D</span>
+                    <span class="ms-1">Day</span>
                 </div>
                 <div class="text-dark fs-4 me-4 d-flex flex-column align-items-center">
                     <div id="hours">00</div>
-                    <span>H</span>
+                    <span>Hours</span>
                 </div>
                 <div class="text-dark fs-4 me-4 d-flex flex-column align-items-center">
                     <div id="minutes">00</div>
-                    <span>M</span>
+                    <span>Minutes</span>
                 </div>
                 <div class="text-dark fs-4 me-0 d-flex flex-column align-items-center">
                     <div id="seconds">00</div>
-                    <span>S</span>
+                    <span>Seconds</span>
                 </div>
             </div>
            <!--     <a class="btn btn-primary btn-primary-outline-0 py-3 px-5" href="#">Book Your Attendance</a>-->

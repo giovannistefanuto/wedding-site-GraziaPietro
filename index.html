@@ -589,130 +589,130 @@
             
             <div class="row g-4">
                 <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
-                <div class="gallery-item"></div>
-                    <div class="gallery-img"></div>
-                    <img class="img-fluid w-100" src="img_gallery/gallery (1).jpg" alt="">
-                    <div class="hover-style"></div>
-                    <div class="search-icon">
-                        <a href="img_gallery/gallery (1).jpg" data-lightbox="Gallery-1" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
-                    </div>
-                    </div>
-                    <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                    <h5>Wedding on the beach</h5>
-                    <p class="text-dark mb-0">02 Giugno 2025</p>
-                    </div>
-                </div>
-                </div>
-                <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.4s">
                 <div class="gallery-item">
-                    <div class="gallery-img">
-                    <img class="img-fluid w-100" src="img_gallery/gallery (2).jpg" alt="">
-                    <div class="hover-style"></div>
-                    <div class="search-icon">
-                        <a href="img_gallery/gallery (2).jpg" data-lightbox="Gallery-2" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
+                            <div class="gallery-img">
+                                <img class="img-fluid w-100" src="img_gallery\gallery (1).jpg" alt="">
+                                <div class="hover-style"></div>
+                                <div class="search-icon">
+                                    <a href="img_gallery_realdimension\gallery_realdimension (1).jpg" data-lightbox="Gallery-1" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
+                                </div>
+                            </div>
+                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
+                                <h5>Wedding on the beach</h5>
+                                <p class="text-dark mb-0">02 Giugno 2025</p>
+                            </div>
+                        </div>
                     </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="gallery-item">
+                            <div class="gallery-img">
+                                <img class="img-fluid w-100" src="img_gallery\gallery (2).jpg" alt="">
+                                <div class="hover-style"></div>
+                                <div class="search-icon">
+                                    <a href="img_gallery_realdimension\gallery_realdimension (2).jpg" data-lightbox="Gallery-2" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
+                                </div>
+                            </div>
+                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
+                                <h5>Wedding on the beach</h5>
+                                <p class="text-dark mb-0">02 Giugno 2025</p>
+                            </div>
+                        </div>
                     </div>
-                    <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                    <h5>Wedding on the beach</h5>
-                    <p class="text-dark mb-0">02 Giugno 2025</p>
+                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="gallery-item">
+                            <div class="gallery-img">
+                                <img class="img-fluid w-100" src="img_gallery\gallery (3).jpg" alt="">
+                                <div class="hover-style"></div>
+                                <div class="search-icon">
+                                    <a href="img_gallery_realdimension\gallery_realdimension (3).jpg" data-lightbox="Gallery-3" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
+                                </div>
+                            </div>
+                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
+                                <h5>Wedding on the beach</h5>
+                                <p class="text-dark mb-0">02 Giugno 2025</p>
+                            </div>
+                        </div>
                     </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
+                        <div class="gallery-item">
+                            <div class="gallery-img">
+                                <img class="img-fluid w-100" src="img_gallery\gallery (4).jpg" alt="">
+                                <div class="hover-style"></div>
+                                <div class="search-icon">
+                                    <a href="img_gallery_realdimension\gallery_realdimension (4).jpg" data-lightbox="Gallery-4" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
+                                </div>
+                            </div>
+                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
+                                <h5>Wedding on the beach</h5>
+                                <p class="text-dark mb-0">02 Giugno 2025</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="gallery-item">
+                            <div class="gallery-img">
+                                <img class="img-fluid w-100" src="img_gallery\gallery (5).JPG" alt="">
+                                <div class="hover-style"></div>
+                                <div class="search-icon">
+                                    <a href="img_gallery_realdimension\gallery_realdimension (5).JPG" data-lightbox="Gallery-5" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
+                                </div>
+                            </div>
+                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
+                                <h5>Wedding on the beach</h5>
+                                <p class="text-dark mb-0">02 Giugno 2025</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="gallery-item">
+                            <div class="gallery-img">
+                                <img class="img-fluid w-100" src="img_gallery\gallery (6).jpg" alt="">
+                                <div class="hover-style"></div>
+                                <div class="search-icon">
+                                    <a href="img_gallery_realdimension\gallery_realdimension (6).jpg" data-lightbox="Gallery-6" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
+                                </div>
+                            </div>
+                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
+                                <h5>Wedding on the beach</h5>
+                                <p class="text-dark mb-0">02 Giugno 2025</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="gallery-item">
+                            <div class="gallery-img">
+                                <img class="img-fluid w-100" src="img_gallery\gallery (7).jpg" alt="">
+                                <div class="hover-style"></div>
+                                <div class="search-icon">
+                                    <a href="img_gallery_realdimension\gallery_realdimension (7).jpg" data-lightbox="Gallery-7" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
+                                </div>
+                            </div>
+                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
+                                <h5>Wedding on the beach</h5>
+                                <p class="text-dark mb-0">02 Giugno 2025</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
+                        <div class="gallery-item">
+                            <div class="gallery-img">
+                                <img class="img-fluid w-100" src="img_gallery\gallery (8).jpg" alt="">
+                                <div class="hover-style"></div>
+                                <div class="search-icon">
+                                    <a href="img_gallery_realdimension\gallery_realdimension (8).jpg" data-lightbox="Gallery-8" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
+                                </div>
+                            </div>
+                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
+                                <h5>Wedding on the beach</h5>
+                                <p class="text-dark mb-0">02 Giugno 2025</p>
+                            </div>
+                        </div>
+                    </div>
+                <!-- <div class="col-12 text-center wow fadeIn" data-wow-delay="0.2s">
+                        <a class="btn btn-primary btn-primary-outline-0 py-3 px-5 me-2" href="#">View All <i class="fas fa-arrow-right"></i></a>
+                    </div> -->   
                 </div>
-                </div>
-                <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
-                <div class="gallery-item">
-                    <div class="gallery-img">
-                    <img class="img-fluid w-100" src="img_gallery/gallery (3).jpg" alt="">
-                    <div class="hover-style"></div>
-                    <div class="search-icon">
-                        <a href="img_gallery/gallery (3).jpg" data-lightbox="Gallery-3" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
-                    </div>
-                    </div>
-                    <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                    <h5>Wedding on the beach</h5>
-                    <p class="text-dark mb-0">02 Giugno 2025</p>
-                    </div>
-                </div>
-                </div>
-                <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
-                <div class="gallery-item">
-                    <div class="gallery-img">
-                    <img class="img-fluid w-100" src="img_gallery/gallery (4).jpg" alt="">
-                    <div class="hover-style"></div>
-                    <div class="search-icon">
-                        <a href="img_gallery/gallery (4).jpg" data-lightbox="Gallery-4" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
-                    </div>
-                    </div>
-                    <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                    <h5>Wedding on the beach</h5>
-                    <p class="text-dark mb-0">02 Giugno 2025</p>
-                    </div>
-                </div>
-                </div>
-                <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
-                <div class="gallery-item">
-                    <div class="gallery-img">
-                    <img class="img-fluid w-100" src="img_gallery/gallery (5).jpg" alt="">
-                    <div class="hover-style"></div>
-                    <div class="search-icon">
-                        <a href="img_gallery/gallery (5).jpg" data-lightbox="Gallery-5" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
-                    </div>
-                    </div>
-                    <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                    <h5>Wedding on the beach</h5>
-                    <p class="text-dark mb-0">02 Giugno 2025</p>
-                    </div>
-                </div>
-                </div>
-                <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.4s">
-                <div class="gallery-item">
-                    <div class="gallery-img">
-                    <img class="img-fluid w-100" src="img_gallery/gallery (6).jpg" alt="">
-                    <div class="hover-style"></div>
-                    <div class="search-icon">
-                        <a href="img_gallery/gallery (6).jpg" data-lightbox="Gallery-6" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
-                    </div>
-                    </div>
-                    <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                    <h5>Wedding on the beach</h5>
-                    <p class="text-dark mb-0">02 Giugno 2025</p>
-                    </div>
-                </div>
-                </div>
-                <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
-                <div class="gallery-item">
-                    <div class="gallery-img">
-                    <img class="img-fluid w-100" src="img_gallery/gallery (7).jpg" alt="">
-                    <div class="hover-style"></div>
-                    <div class="search-icon">
-                        <a href="img_gallery/gallery (7).jpg" data-lightbox="Gallery-7" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
-                    </div>
-                    </div>
-                    <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                    <h5>Wedding on the beach</h5>
-                    <p class="text-dark mb-0">02 Giugno 2025</p>
-                    </div>
-                </div>
-                </div>
-                <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
-                <div class="gallery-item">
-                    <div class="gallery-img">
-                    <img class="img-fluid w-100" src="img_gallery/gallery (8).jpg" alt="">
-                    <div class="hover-style"></div>
-                    <div class="search-icon">
-                        <a href="img_gallery/gallery (8).jpg" data-lightbox="Gallery-8" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
-                    </div>
-                    </div>
-                    <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                    <h5>Wedding on the beach</h5>
-                    <p class="text-dark mb-0">02 Giugno 2025</p>
-                    </div>
-                </div>
-                </div>
-            <!-- <div class="col-12 text-center wow fadeIn" data-wow-delay="0.2s">
-                <a class="btn btn-primary btn-primary-outline-0 py-3 px-5 me-2" href="#">View All <i class="fas fa-arrow-right"></i></a>
-                </div> -->   
-            </div>
-            
+                
             </div>
         </div>
         <!-- Gallery end -->

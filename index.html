@@ -364,30 +364,30 @@
             <div class="wedding-date text-center bg-light p-5" style="border-style: double !important; border: 15px solid rgba(253, 93, 93, 0.5);">
             <div class="wedding-date-content">
             <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4" style="border-style: double;">
-                <h4 class="text-dark text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">02 Giugno 2025</h4>
+            <h4 class="text-dark text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">02 Giugno 2025</h4>
             </div>
             <h1 class="display-4" style="color: rgb(66, 128, 98);">Ma scusate, quanto manca?</h1>
             <p class="text-dark fs-5">Santuario della Madonna del Monte di Marsure, 
-                Costa di, Via del Santuario, 43, 33081 Aviano PN</p>
-            <div class="d-flex align-items-center justify-content-center mb-5" id="countdown" style="font-size: 0.5;">
-                <div class="text-dark fs-4 me-4 d-flex flex-column align-items-center">
-                    <div id="days">00</div>
-                    <span class="ms-1">Day</span>
-                </div>
-                <div class="text-dark fs-4 me-4 d-flex flex-column align-items-center">
-                    <div id="hours">00</div>
-                    <span>Hours</span>
-                </div>
-                <div class="text-dark fs-4 me-4 d-flex flex-column align-items-center">
-                    <div id="minutes">00</div>
-                    <span>Minutes</span>
-                </div>
-                <div class="text-dark fs-4 me-0 d-flex flex-column align-items-center">
-                    <div id="seconds">00</div>
-                    <span>Seconds</span>
-                </div>
+            Costa di, Via del Santuario, 43, 33081 Aviano PN</p>
+            <div class="d-flex align-items-center justify-content-center mb-5" id="countdown">
+            <div class="text-dark fs-6 me-2 d-flex flex-column align-items-center">
+                <div id="days">00</div>
+                <span class="ms-1">Day</span>
             </div>
-           <!--     <a class="btn btn-primary btn-primary-outline-0 py-3 px-5" href="#">Book Your Attendance</a>-->
+            <div class="text-dark fs-6 me-2 d-flex flex-column align-items-center">
+                <div id="hours">00</div>
+                <span>Hours</span>
+            </div>
+            <div class="text-dark fs-6 me-2 d-flex flex-column align-items-center">
+                <div id="minutes">00</div>
+                <span>Minutes</span>
+            </div>
+            <div class="text-dark fs-6 me-0 d-flex flex-column align-items-center">
+                <div id="seconds">00</div>
+                <span>Seconds</span>
+            </div>
+            </div>
+            <!--     <a class="btn btn-primary btn-primary-outline-0 py-3 px-5" href="#">Book Your Attendance</a>-->
             </div>
             <div class="position-absolute" style="top: 15%; right: -30px; transform: rotate(320deg); opacity: 0.5; z-index: 1;">
             <img src="img/attendance-bg.png" class="img-fluid" alt="">
@@ -397,42 +397,53 @@
             </div>
             </div>
             </div>
-        </div>
-        <!-- Wedding Date -->
-
-        <script>
+            </div>
+            <!-- Wedding Date -->
+            <script>
             // Set the date we're counting down to
             var countDownDate = new Date("2 June 2025 00:00:00").getTime();
 
             // Update the count down every 1 second
             var x = setInterval(function() {
 
-            // Get today's date and time
-            var now = new Date().getTime();
+                // Get today's date and time
+                var now = new Date().getTime();
 
-            // Find the distance between now and the count down date
-            var distance = countDownDate - now;
+                // Find the distance between now and the count down date
+                var distance = countDownDate - now;
 
-            // Time calculations for days, hours, minutes and seconds
-            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+                // Time calculations for days, hours, minutes and seconds
+                var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-            // Display the result in the elements with id="days", "hours", "minutes", "seconds"
-            document.getElementById("days").innerHTML = days;
-            document.getElementById("hours").innerHTML = hours;
-            document.getElementById("minutes").innerHTML = minutes;
-            document.getElementById("seconds").innerHTML = seconds;
+                // Display the result in the elements with id="days", "hours", "minutes", "seconds"
+                document.getElementById("days").innerHTML = days;
+                document.getElementById("hours").innerHTML = hours;
+                document.getElementById("minutes").innerHTML = minutes;
+                document.getElementById("seconds").innerHTML = seconds;
 
-            // If the count down is over, write some text 
-            if (distance < 0) {
+                // If the count down is over, write some text 
+                if (distance < 0) {
                 clearInterval(x);
                 document.getElementById("countdown").innerHTML = "EXPIRED";
-            }
+                }
             }, 1000);
-        </script>
 
+            // Adjust font size for mobile devices
+            function adjustFontSizeForMobile() {
+                if (window.innerWidth <= 768) {
+                document.getElementById("countdown").style.fontSize = "0.8rem";
+                } else {
+                document.getElementById("countdown").style.fontSize = "2rem";
+                }
+            }
+
+            // Call the function on load and on resize
+            window.onload = adjustFontSizeForMobile;
+            window.onresize = adjustFontSizeForMobile;
+            </script>
 
         <!-- Wedding Timeline start -->
     <div class="container-fluid wedding-timeline bg-secondary position-relative overflow-hidden py-5" id="weddingTimeline">

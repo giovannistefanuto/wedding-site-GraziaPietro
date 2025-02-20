@@ -143,54 +143,83 @@
         </div>
         <!-- Carousel End -->
 
-
         <!-- Hello! Start -->
         <div class="container-fluid position-relative py-5" id="weddingAbout">
+            <!-- Background (opzionale) -->
             <div class="position-absolute" style="top: -35px; right: 0;">
-                <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
+            <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
             </div>
             <div class="position-absolute" style="top: -10px; left: 0; transform: rotate(150deg);">
-                <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
+            <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
             </div>
+        
             <div class="container position-relative py-5">
-                <div class="mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800;">
-                    <h1 class="text-primary display-1">Hello!</h1>
-                    <h4 class="text-dark mb-0">Sei ufficialmente invitato al nostro matrimonio</h4>
+            <div class="mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
+                <h1 class="text-primary display-1">Hello!</h1>
+                <h4 class="text-dark mb-0">Sei ufficialmente invitato al nostro matrimonio</h4>
+            </div>
+        
+            <!-- Sezione Sposa -->
+            <section id="sposa" class="mb-5">
+                <!-- Titolo -->
+                <div class="text-center mb-3">
+                <h3 class="text-primary">Grazia</h3>
                 </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="row g-4 align-items-center">
-                            <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.3s">
-                                <div class="d-flex">
-                                    <div class="text-end my-auto pe-4">
-                                        <h3 class="text-primary mb-3">Grazia</h3>
-                                        <p class="text-dark mb-0" style="line-height: 30px;">Una donna semplice, senza troppe pretese. Vuole sempre la luna, vive come se avesse 35 ore in un giorno.
-                                        </p>
-                                    </div>
-                                    <img src="img/sposa2.jpg" class="img-fluid img-border" alt="" style="max-width: 40%;">
-                                </div>
-                            </div>
-                            <div class="col-lg-2 wow fadeIn" data-wow-delay="0.5s">
-                                <div class="d-flex align-items-center justify-content-center">
-                                    <i class="fa fa-heart fa-5x text-primary"></i>
-                               </div>
-                            </div>
-                            <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.3s">
-                                <div class="d-flex">
-                                    <img src="img/sposo2.jpg" class="img-fluid img-border" alt="" style="max-width: 40%;">
-                                    <div class="my-auto ps-4">
-                                        <h3 class="text-primary mb-3">Pietro</h3>
-                                        <p class="text-dark mb-0" style="line-height: 30px;">Un uomo semplice, senza troppe pretese. Ingegnere, chitarrista, sicuramente pieno di vita (dopo il pisolo).
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="row align-items-center">
+                <!-- Colonna Foto: in mobile prima (order-1) e in desktop seconda (order-md-2) -->
+                <div class="col-12 col-md-4 order-1 order-md-2 text-center">
+                    <img src="img/sposa2.jpg" class="img-fluid img-border" alt=""
+                        style="max-width: 60%; height: auto;">
                 </div>
+                <!-- Colonna Testo: in mobile dopo (order-2) e in desktop prima (order-md-1) -->
+                <div class="col-12 col-md-8 order-2 order-md-1">
+                    <p class="text-dark" style="line-height: 30px;">
+                    Se cercate una donna piccolina, che è golosa di spuntini, si sveglia (a fatica) con un covone di capelli in testa e la gentilezza del Grinch e parla solo dopo aver bevuto un ettolitro di caffè, siete nel sito giusto!
+                    Grazia è il suo nome chiaramente ed ha un viso dolce e sorridente: è determinata, energica e intraprendente, sa essere gentile, schietta a dismisura, talvolta testarda ma devota da far paura.
+                    La nostra fanciulla nacque nella lontana Pordenone nel glorioso millenovecentonovantanove e da lì i suoi pellegrinaggi iniziò, tra Verona, Padova, Chioggia e Venezia rimbalzò.
+                    Fece, così, del treno il suo compagno d’avventura, prendendo ogni straordinario senza alcuna paura.
+                    Odia le bistecche (ma le costicine sono accette), al minestrone prerisce le bruschette, al supermercato non compra niente che non trovi super conveniente...
+                    Solo per l'ammorbidente fa un'eccezione, lo cerca dovunque con abnegazione.
+                    Ama passare il tempo libero in montagna, e una schiscia sempre la accompagna, adora i suoi amici, le gite e le cantate, riesce ad aiutare anche le famiglie disagiate.
+                    Da vera principessa ha lottato contro ogni avversità per portare all’altare la sua dolce metà.
+                    </p>
+                </div>
+                </div>
+            </section>
+        
+            <!-- Sezione Sposo -->
+            <section id="sposo">
+                <!-- Titolo -->
+                <div class="text-center mb-3">
+                <h3 class="text-primary">Pietro</h3>
+                </div>
+                <div class="row align-items-center">
+                <!-- Colonna Foto (stessa in mobile e desktop) -->
+                <div class="col-12 col-md-4 text-center">
+                    <img src="img/sposo2.jpg" class="img-fluid img-border" alt=""
+                        style="max-width: 70%; height: auto;">
+                </div>
+                <!-- Colonna Testo -->
+                <div class="col-12 col-md-8">
+                    <p class="text-dark" style="line-height: 30px;">
+                    <!-- Attualmente identico al testo di Grazia, verrà modificato -->
+                    Se cercate una donna piccolina, che è golosa di spuntini, si sveglia (a fatica) con un covone di capelli in testa e la gentilezza del Grinch e parla solo dopo aver bevuto un ettolitro di caffè, siete nel sito giusto!
+                    Grazia è il suo nome chiaramente ed ha un viso dolce e sorridente: è determinata, energica e intraprendente, sa essere gentile, schietta a dismisura, talvolta testarda ma devota da far paura.
+                    La nostra fanciulla nacque nella lontana Pordenone nel glorioso millenovecentonovantanove e da lì i suoi pellegrinaggi iniziò, tra Verona, Padova, Chioggia e Venezia rimbalzò.
+                    Fece, così, del treno il suo compagno d’avventura, prendendo ogni straordinario senza alcuna paura.
+                    Odia le bistecche (ma le costicine sono accette), al minestrone prerisce le bruschette, al supermercato non compra niente che non trovi super conveniente...
+                    Solo per l'ammorbidente fa un'eccezione, lo cerca dovunque con abnegazione.
+                    Ama passare il tempo libero in montagna, e una schiscia sempre la accompagna, adora i suoi amici, le gite e le cantate, riesce ad aiutare anche le famiglie disagiate.
+                    Da vera principessa ha lottato contro ogni avversità per portare all’altare la sua dolce metà.
+                    </p>
+                </div>
+                </div>
+            </section>
+            
             </div>
         </div>
         <!-- Hello! End -->
+  
 <!-- 
          About Start RICORDATI DI RIMETTERE IL COMMENTO QUI E SOTTOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
         <div class="container-fluid position-relative overflow-hidden bg-secondary py-5">

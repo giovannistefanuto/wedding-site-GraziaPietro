@@ -426,10 +426,10 @@
         <!--- Wedding Date -->
         <div class="container-fluid wedding-date-bg position-relative py-5">
             <div class="position-absolute" style="top: -100px; right: 0;">
-            <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
+            <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="" style="filter: blur(5px);">
             </div>
             <div class="position-absolute" style="top: -80px; left: 0; transform: rotate(150deg);">
-            <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
+            <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="" style="filter: blur(5px);">
             </div>
             <div class="container py-5 wow zoomIn" data-wow-delay="0.1s">
             <div class="wedding-date text-center bg-light p-5" style="border-style: double !important; border: 15px solid rgba(253, 93, 93, 0.5);">
@@ -461,10 +461,10 @@
             <!--     <a class="btn btn-primary btn-primary-outline-0 py-3 px-5" href="#">Book Your Attendance</a>-->
             </div>
             <div class="position-absolute" style="top: 15%; right: -30px; transform: rotate(320deg); opacity: 0.5; z-index: 1;">
-            <img src="img/attendance-bg.png" class="img-fluid" alt="">
+            <img src="img/attendance-bg.png" class="img-fluid" alt="" style="filter: blur(5px);">
             </div>
             <div class="position-absolute" style="top: 15%; left: -10px; transform: rotate(-320deg); opacity: 0.5; z-index: 1;">
-            <img src="img/attendance-bg.png" class="img-fluid" alt="">
+            <img src="img/attendance-bg.png" class="img-fluid" alt="" style="filter: blur(5px);">
             </div>
             </div>
             </div>
@@ -840,13 +840,14 @@
                     <div class="col-lg-4 text-center">
                         <div class="footer-item">
                             <h4 class="mb-4 text-white">Grace<strong class="text-primary">&</strong>Pit</h4>
-                            <p class="text-white">Gli alberi sono alti, ci guardano passare<br>
-                                Dal ciglio della strada che arriva fino al mare<br>
-                                A furia di star fermi nel bosco e in mezzo ai prati<br>
-                                Han messo su radici e non si sono più spostati<br>
-                                Han messo su radici e non si sono più spostati<br><br>
-                                Salire in cima agli alberi, magnifica avventura<br>
-                                Mele, ciliegie e datteri, tutta frutta matura <br>
+                            <p class="text-white">Guardando il mondo da un'altra distanza <br>
+                                Tra i giorni all'angolo e quelli migliori<br>
+                                Le mani sanno cos'è la pazienza<br>
+                                E gli occhi imparano le stagioni<br>
+                                C'è un posto che tengo nascosto per te<br>
+                                Un posto che sta qui da sempre<br>
+                                C'era già prima di me e c'è ancora<br>
+                                Si apre per noi eternamente ora<br>
                             </p>
                         </div>
                     </div>

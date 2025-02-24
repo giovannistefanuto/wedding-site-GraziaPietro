@@ -163,7 +163,7 @@
             <section id="sposa" class="mb-5">
                 <!-- Titolo -->
                 <div class="text-center mb-3">
-                <h3 class="text-primary">Grazia</h3>
+                <h3 class="text-primary">Grazia</h3> <h6 class="text-primary">vista dalle testimoni...</h6>
                 </div>
                 <div class="row align-items-center">
                 <!-- Colonna Foto: in mobile prima (order-1) e in desktop seconda (order-md-2) -->
@@ -191,7 +191,7 @@
             <section id="sposo">
                 <!-- Titolo -->
                 <div class="text-center mb-3">
-                <h3 class="text-primary">Pietro</h3>
+                <h3 class="text-primary">Pietro</h3> <h6 class="text-primary">visto dai testimoni...</h6>
                 </div>
                 <div class="row align-items-center">
                 <!-- Colonna Foto (stessa in mobile e desktop) -->
@@ -808,6 +808,15 @@
             </div>
         </div>
         <!-- Gallery end -->
+
+        <!-- Inserisci qui le tue foto/video-->
+        <div class="container-fluid py-5 bg-light">
+            <div class="container text-center">
+            <h2 class="display-4 text-primary mb-4">Condividi le tue foto/video del matrimonio</h2>
+            <a href="https://drive.google.com/drive/folders/1ZVlh0T8akFG_tsiKz31NkTq_yzB1lDW7?usp=sharing" target="_blank" class="btn btn-primary btn-primary-outline-0 py-3 px-5">Carica le tue foto/video</a>
+            <p class="fs-5 text-dark mb-4">Abbiamo creato un drive dove puoi caricare tutte le foto e i video del nostro matrimonio.<br>Clicca sul pulsante qui sotto per accedere al drive e condividere i tuoi ricordi con noi!</p>
+            </div>
+        </div></div>
 
         <!-- Footer Start -->
         <div class="container-fluid footer py-5 wow fadeIn" data-wow-delay="0.1s">

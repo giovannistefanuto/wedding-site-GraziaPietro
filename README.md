@@ -56,7 +56,7 @@
                                 <a href="#weddingStory" class="nav-item nav-link">Story</a>
                                 <a href="#weddingTimeline" class="nav-item nav-link">Wedding Informations</a>
                                 <a href="#weddingGallery" class="nav-item nav-link">Gallery</a>
-                                <a href="#weddingRsvp" class="nav-item nav-link">RSVP</a>
+                                <a href="#weddingGiftList" class="nav-item nav-link">Lista Nozze</a>
                             </div>
                             <div class="d-flex align-items-center flex-nowrap pt-xl-0">
                                <!-- <a href="#weddingRsvp" class="btn btn-primary btn-primary-outline-0 py-2 px-4 ms-4">Book Attendance</a> -->
@@ -156,7 +156,7 @@
             <div class="container position-relative py-5">
             <div class="mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
                 <h1 class="text-primary display-1">Hello!</h1>
-                <!-- <h4 class="text-dark mb-0">Sei ufficialmente invitato al nostro matrimonio</h4> -->
+                <h4 class="text-dark mb-0">Sei ufficialmente invitato al nostro matrimonio</h4>
             </div>
         
             <!-- Sezione Sposa -->
@@ -673,15 +673,15 @@
                     <div class="col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="bg-white p-4 border-secondary" style="border-style: double;">
                             <h3 class="text-dark">Lista Nozze</h3>
-                            <p class="text-dark">Abbiamo creato una lista nozze per facilitare la scelta dei regali. Potete accedere alla lista nozze cliccando sul link qui sotto:</p>
+                        <!--     <p class="text-dark">Abbiamo creato una lista nozze per facilitare la scelta dei regali. Potete accedere alla lista nozze cliccando sul link qui sotto:</p>-->
                             <a href="https://www.example.com/lista-nozze" target="_blank" class="btn btn-primary btn-primary-outline-0 py-2 px-4">Vai alla Lista Nozze</a>
                         </div>
                     </div>
                     <div class="col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                         <div class="bg-white p-4 border-secondary" style="border-style: double;">
                             <h3 class="text-dark">IBAN degli Sposi</h3>
-                            <p class="text-dark">Se preferite, potete contribuire al nostro futuro con un bonifico. Ecco il nostro IBAN:</p>
-                            <p class="text-dark fw-bold">IT60X0542811101000000123456</p>
+                           <!-- <p class="text-dark">Se preferite, potete contribuire al nostro futuro con un bonifico. Ecco il nostro IBAN:</p>-->
+                            <p class="text-dark fw-bold">IT65U0306920910100000017314</p>
                         </div>
                     </div>
                 </div>
@@ -699,8 +699,8 @@
             </div>
             <div class="container position-relative py-5">
             <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
-                <h1 class="display-2 text-dark">Gallery</h1>
-                <p class="fs-5 text-dark">Qui troverai tutte le foto che cerchi, e anche di più!</p>
+            <h1 class="display-2 text-dark">Gallery</h1>
+            <p class="fs-5 text-dark">Qui troverai tutte le foto che cerchi, e anche di più!</p>
             </div>
             
             <div class="row g-4">
@@ -713,10 +713,7 @@
                                     <a href="img_gallery_realdimension\gallery_realdimension (1).jpg" data-lightbox="Gallery-1" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
                                 </div>
                             </div>
-                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                                <h5>Wedding on the beach</h5>
-                                <p class="text-dark mb-0">02 Giugno 2025</p>
-                            </div>
+        
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.4s">
@@ -728,10 +725,7 @@
                                     <a href="img_gallery_realdimension\gallery_realdimension (2).jpg" data-lightbox="Gallery-2" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
                                 </div>
                             </div>
-                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                                <h5>Wedding on the beach</h5>
-                                <p class="text-dark mb-0">02 Giugno 2025</p>
-                            </div>
+                            
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
@@ -743,10 +737,7 @@
                                     <a href="img_gallery_realdimension\gallery_realdimension (3).jpg" data-lightbox="Gallery-3" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
                                 </div>
                             </div>
-                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                                <h5>Wedding on the beach</h5>
-                                <p class="text-dark mb-0">02 Giugno 2025</p>
-                            </div>
+                            
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
@@ -758,10 +749,7 @@
                                     <a href="img_gallery_realdimension\gallery_realdimension (4).jpg" data-lightbox="Gallery-4" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
                                 </div>
                             </div>
-                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                                <h5>Wedding on the beach</h5>
-                                <p class="text-dark mb-0">02 Giugno 2025</p>
-                            </div>
+                            
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
@@ -773,10 +761,7 @@
                                     <a href="img_gallery_realdimension\gallery_realdimension (5).JPG" data-lightbox="Gallery-5" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
                                 </div>
                             </div>
-                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                                <h5>Wedding on the beach</h5>
-                                <p class="text-dark mb-0">02 Giugno 2025</p>
-                            </div>
+                            
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.4s">
@@ -788,10 +773,7 @@
                                     <a href="img_gallery_realdimension\gallery_realdimension (6).jpg" data-lightbox="Gallery-6" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
                                 </div>
                             </div>
-                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                                <h5>Wedding on the beach</h5>
-                                <p class="text-dark mb-0">02 Giugno 2025</p>
-                            </div>
+                            
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
@@ -803,10 +785,7 @@
                                     <a href="img_gallery_realdimension\gallery_realdimension (7).jpg" data-lightbox="Gallery-7" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
                                 </div>
                             </div>
-                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                                <h5>Wedding on the beach</h5>
-                                <p class="text-dark mb-0">02 Giugno 2025</p>
-                            </div>
+                            
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
@@ -818,10 +797,7 @@
                                     <a href="img_gallery_realdimension\gallery_realdimension (8).jpg" data-lightbox="Gallery-8" class="my-auto"><i class="fas fa-plus btn-primary btn-primary-outline-0 p-3"></i></a>
                                 </div>
                             </div>
-                            <div class="gallery-overlay bg-light border-secondary border-top-0 p-4" style="border-style: double;">
-                                <h5>Wedding on the beach</h5>
-                                <p class="text-dark mb-0">02 Giugno 2025</p>
-                            </div>
+                            
                         </div>
                     </div>
                 <!-- <div class="col-12 text-center wow fadeIn" data-wow-delay="0.2s">

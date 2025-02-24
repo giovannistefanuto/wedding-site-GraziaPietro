@@ -203,14 +203,52 @@
                 <div class="col-12 col-md-8">
                     <p class="text-dark" style="line-height: 30px;">
                     <!-- Attualmente identico al testo di Grazia, verrà modificato -->
-                    Se cercate una donna piccolina, che è golosa di spuntini, si sveglia (a fatica) con un covone di capelli in testa e la gentilezza del Grinch e parla solo dopo aver bevuto un ettolitro di caffè, siete nel sito giusto!
-                    Grazia è il suo nome chiaramente ed ha un viso dolce e sorridente: è determinata, energica e intraprendente, sa essere gentile, schietta a dismisura, talvolta testarda ma devota da far paura.
-                    La nostra fanciulla nacque nella lontana Pordenone nel glorioso millenovecentonovantanove e da lì i suoi pellegrinaggi iniziò, tra Verona, Padova, Chioggia e Venezia rimbalzò.
-                    Fece, così, del treno il suo compagno d’avventura, prendendo ogni straordinario senza alcuna paura.
-                    Odia le bistecche (ma le costicine sono accette), al minestrone prerisce le bruschette, al supermercato non compra niente che non trovi super conveniente...
-                    Solo per l'ammorbidente fa un'eccezione, lo cerca dovunque con abnegazione.
-                    Ama passare il tempo libero in montagna, e una schiscia sempre la accompagna, adora i suoi amici, le gite e le cantate, riesce ad aiutare anche le famiglie disagiate.
-                    Da vera principessa ha lottato contro ogni avversità per portare all’altare la sua dolce metà.
+                                            Udite udite, madame et messeri 
+                        e drizzate le orecchie a questo stornello, 
+                        che  vi presentiamo ora, noi suoi alfieri, 
+                        Pietro Rossetti, lagunar menestrello. 
+                        Contar i suoi anni chiede men di un secondo, 
+                        che  nel 2000 nulla finì , bensì  Pietro venne al mondo, 
+                        su “quel ramo” della veneta laguna che a sud si trova esposto, 
+                        ove risiedono i siddetti ciosoti, un popolo…alquanto tosto. 
+                        Pietro, il nostro gentiluomo, e  dunque un ciosoto vero, 
+                        calzerebbe infradito anche all’Arena, del tutto fiero. 
+                        Dotato di folta e riccia chioma, dai piu  assai invidiata, 
+                        Che giusto il barbier-cerusico sa tener domata, 
+                        il cavalier nostro si distingue per bonta  e allegria, 
+                        qualita , ambedue, ben rare a ingegneria! 
+                        Si dice, tuttavia, che dietro tanta gentilezza e belta , 
+                        Si celi, in fondo, anche un pizzico di ingenuita . 
+                        Del denaro e  gia  molto se ne conosce l’esistenza; 
+                        non stesse per sposarsi, potrebbe pure farne senza. 
+                        Ma si puo  forse codesto chiamare un difetto? 
+                        Preghiamo solo Iddio non gli faccia mai mancare un tetto. 
+                        Similmente alla sua dolce meta , la qui promessa sposa, 
+                        ha certe diatribe con la sveglia, giacche  pesantemente riposa. 
+                        Suvvia pero ! Non di ozio si tratta 
+                        (che ha imparato pure a farsi il nodo alla cravatta). 
+                        Il sonno e  invece il riposo del giusto, 
+                        che  serve non poco tempo a ritemprar questo bel fusto. 
+                        Distratto, e  vero, e a volte perso nei suoi pensieri; 
+                        a ben veder, pero , lo era spesso anche l’Alighieri. 
+                        Poiche  l’esser tra le nuvole e  tratto tipico dell’artista, 
+                        che sempre al suo far pensa e per poco altro ha vista. 
+                        Tra le sue passioni, infatti, una e  quella che piu  lo avvince: 
+                        strimpellar la chitarra, che guardar le moto per poco vince. 
+                        A dire il vero, e  la musica tutta intera ad appassionarlo, 
+                        che  ogni strumento prenda in mano lui sa suonarlo. 
+                        Menestrello lo abbiamo chiamato mica per nulla, 
+                        che  non solo suona, ma scrive ballate per ogni fanciulla. 
+                        Fanciulle alle quali, pero , chiediamo ormai distanza, 
+                        giacche  per una sola dama, ora, il suo cuore danza. 
+                        Il nostro cavaliere ha infatti il destino gia  segnato 
+                        da Monna Grazia, colei che il suo cuor ha imprigionato. 
+                        “Quanta cattiveria, codesto e  amore vero!”, ci direte. 
+                        Non ditelo a noi, che testimonieremo dinanzi al prete. 
+                        Il fatto e  che tra noi c’e  chi gia  s’e  legato in quel magno evento, 
+                        sicche  sappiamo bene cosa si celi dietro questo sacramento. 
+                        “Nella gioia e nel dolore, nella salute e nella malattia”, 
+                        Monna Grazia che conduce e messer Pietro ne segue la via. 
                     </p>
                 </div>
                 </div>
@@ -329,16 +367,20 @@
                             <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4">
                                 <h4 class="mb-2 text-dark">Il nostro primo incontro: find the light</h4>
                                 <!-- <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p> -->
-                                <p class="m-0 fs-5">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
+                                <p class="m-0 fs-5">Una notte del luglio 2021, tra i monti trentini e sorseggiando il suo amaro, Pietro decise che era finalmente giunto il tempo di ascoltare la sua amica Paola e andare a conoscere la famosa CicciaGrace. 
+                                    I due poi si rividero nella ridente Portobuffolé dove passarono l’intera notte aspettando il sorgere del sole con i loro amici, alcune coperte e una chitarra. Trascorsero i mesi e con loro anche le lunghe chiamate tra i due. Così, mentre Grazia cominciò a farsi due domande, Pietro perso per natura – anche se a lui piace definirsi solo “chioggiotto” – ancora suonava e cantava libero ed ignaro di ciò che lo avrebbe aspettato.
+                                    </p>
                             </div>
                         </div>
                     </div>
                     <div class="row flex-column-reverse flex-md-row wow fadeInUp" data-wow-delay="0.3s">
                         <div class="col-md-6 text-end border-end border-top border-secondary p-4 ps-0">
                             <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4">
-                                <h4 class="text-dark mb-2">Poi disse: "Andiamo a prenderci un gelato?"</h4>
+                                <h4 class="text-dark mb-2">Poi disse: "Andiamo a prenderci un <s>gelato</s> caffè?"</h4>
                                 <!-- <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p> -->
-                                <p class="m-0 fs-5">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
+                                <p class="m-0 fs-5">Una notte del luglio 2021, tra i monti trentini e sorseggiando il suo amaro, Pietro decise che era finalmente giunto il tempo di ascoltare la sua amica Paola e andare a conoscere la famosa CicciaGrace. 
+                                    I due poi si rividero nella ridente Portobuffolé dove passarono l’intera notte aspettando il sorgere del sole con i loro amici, alcune coperte e una chitarra. Trascorsero i mesi e con loro anche le lunghe chiamate tra i due. Così, mentre Grazia cominciò a farsi due domande, Pietro perso per natura – anche se a lui piace definirsi solo “chioggiotto” – ancora suonava e cantava libero ed ignaro di ciò che lo avrebbe aspettato.
+                                    </p>
                             </div>
                         </div>
                         <div class="col-md-6 border-start border-top border-secondary p-4">
@@ -357,7 +399,7 @@
                             <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4">
                                 <h4 class="text-dark mb-2">Un discernimento grande come il numero di città coinvolte</h4>
                                 <!-- <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p> -->
-                                <p class="m-0 fs-5">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
+                                <p class="m-0 fs-5">Furono mesi intensi, quelli dalla Primavera 2022 in poi, trascorsi tra un treno e l’altro, tra case e città diverse… ma era solo l’inizio: dovettero andare a Venezia, Assisi e poi fino in Portogallo per capire come si chiamasse questo desiderio che avevano nel cuore. </p>
                             </div>
                         </div>
                     </div>
@@ -366,7 +408,7 @@
                             <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4">
                                 <h4 class="text-dark mb-2">Ci sposiamo!</h4>
                                 <!-- <p class="text-uppercase text-primary mb-2" style="letter-spacing: 3px;">01 Jan 2050</p> -->
-                                <p class="m-0 fs-5">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
+                                <p class="m-0 fs-5">Ebbene sì, cari amici e care famiglie! L’ingegnere chioggiotto sposerà la psicologa pordenonese il primo lunedì del giugno 2025! Due giovani squattrinati con poche (ma ben salde) certezze, tante persone carrrrine (spoiler: siete voi) e un Santuario. Cosa poter desiderare di più Grande di questo? </p>
                             </div>
                         </div>
                         <div class="col-md-6 border border-end-0 border-secondary p-4">
@@ -540,7 +582,7 @@
     </div>
     <!-- Wedding Timeline End -->
 
-       <!-- RSVP Form Start -->
+       <!-- RSVP Form Start RIMETTERE FINE COMMENTO QUI E TOGLIERE QUEI 4 SOTTO ALLLA FINE
         <div class="container-fluid RSVP-form py-5" id="weddingRsvp">
             <div class="container py-5">
             <div class="mb-5 text-center mx-auto wow fadeIn" data-wow-delay="0.1s" style="max-width: 800px;">
@@ -607,13 +649,45 @@
                     risultato.innerHTML = `
                         <p class="text-danger">Nome non trovato. Sei sicuro di averlo inserito correttamente? <br> Controlla che non ci siano <strong>spazi o errori di battitura</strong> (Esempio corretto: Giovanni Maria Stefanuto) <br> Per problemi, <strong>scrivere su Whatsapp a Giovanni: +3318977891</strong></p>
                             </p>
-
+--> <!--ANCHE QUESTA RIGA INTERA TOGLILA -->
                       <!-- <a href="https://modulo-generico.example.com" target="_blank" class="btn btn-secondary py-2 px-4">Modulo generico per verifiche</a> -->
-                    `;
-                }
-            }
-        </script>
+<!--                    `;     -->
+<!--                }          -->
+<!--            }              -->
+<!--        </script>          -->
         <!-- RSVP Form End -->
+
+        <!-- Gift List and IBAN Start -->
+        <div class="container-fluid gift-list-iban bg-light position-relative py-5" id="weddingGiftList">
+            <div class="position-absolute" style="top: -35px; right: 0;">
+                <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
+            </div>
+            <div class="position-absolute" style="top: -10px; left: 0; transform: rotate(150deg);">
+                <img src="img/tamp-bg-1.png" class="img-fluid d-none" alt="">
+            </div>
+            <div class="container position-relative py-5">
+                <div class="text-center mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="display-4 text-primary">Volete costruire con noi questo matrimonio?</h1>
+                </div>
+                <div class="row g-4">
+                    <div class="col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="bg-white p-4 border-secondary" style="border-style: double;">
+                            <h3 class="text-dark">Lista Nozze</h3>
+                            <p class="text-dark">Abbiamo creato una lista nozze per facilitare la scelta dei regali. Potete accedere alla lista nozze cliccando sul link qui sotto:</p>
+                            <a href="https://www.example.com/lista-nozze" target="_blank" class="btn btn-primary btn-primary-outline-0 py-2 px-4">Vai alla Lista Nozze</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="bg-white p-4 border-secondary" style="border-style: double;">
+                            <h3 class="text-dark">IBAN degli Sposi</h3>
+                            <p class="text-dark">Se preferite, potete contribuire al nostro futuro con un bonifico. Ecco il nostro IBAN:</p>
+                            <p class="text-dark fw-bold">IT60X0542811101000000123456</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Gift List and IBAN End -->
 
         <!-- Gallery Start -->
         <div class="container-fluid gallery position-relative py-5" id="weddingGallery">

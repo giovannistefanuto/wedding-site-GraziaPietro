@@ -86,7 +86,7 @@
                                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4" style="border-style: double;">
                                     <h4 class="text-white text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">CI SPOSIAMO!</h4>
                                 </div>
-                                <h1 class="display-1 text-capitalize text-white mb-3">Grazia <i class="fa fa-heart text-primary"></i> Pietro</h1>
+                                <h1 class="display-1 text-capitalize text-white mb-3">Grazia <i class="fa fa-heart text-danger"></i> Pietro</h1>
                                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-5" style="border-style: double;">
                                     <h4 class="text-white text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">02 Giugno 2025</h4>
                                 </div>
@@ -103,7 +103,7 @@
                                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-5" style="border-style: double;">
                                     <h4 class="text-white text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">CI SPOSIAMO!</h4>
                                 </div>
-                                <h1 class="display-1 text-capitalize text-white mb-3">Grazia <i class="fa fa-heart text-primary"></i> Pietro</h1>
+                                <h1 class="display-1 text-capitalize text-white mb-3">Grazia <i class="fa fa-heart text-danger"></i> Pietro</h1>
                                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4" style="border-style: double;">
                                     <h4 class="text-white text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">02 Giugno2025</h4>
                                 </div>
@@ -120,7 +120,7 @@
                                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4" style="border-style: double;">
                                     <h4 class="text-white text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">CI SPOSIAMO!</h4>
                                 </div>
-                                <h1 class="display-1 text-capitalize text-white mb-3">Grazia <i class="fa fa-heart text-primary"></i> Pietro</h1>
+                                <h1 class="display-1 text-capitalize text-white mb-3">Grazia <i class="fa fa-heart text-danger"></i> Pietro</h1>
                                 <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4" style="border-style: double;">
                                     <h4 class="text-white text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">02 Giugno 2025</h4>
                                 </div>
@@ -155,7 +155,7 @@
         
             <div class="container position-relative py-5">
             <div class="mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
-                <h1 class="text-primary display-1">Hello!</h1>
+                <h1 class="display-1" style="color: #6f7f60;">Hello!</h1>
             <!--    <h4 class="text-dark mb-0">Sei ufficialmente invitato al nostro matrimonio</h4> -->
             </div>
         
@@ -163,7 +163,7 @@
             <section id="sposa" class="mb-5">
                 <!-- Titolo -->
                 <div class="text-center mb-3">
-                <h3 class="text-primary">Grazia</h3> <h6 class="text-primary">Vista dalle testimoni...</h6>
+                <h3 style="color: #6f7f60;">Grazia</h3> <h6 style="color: #6f7f60;">Vista dalle testimoni...</h6>
                 </div>
                 <div class="row align-items-center">
                 <!-- Colonna Foto: in mobile prima (order-1) e in desktop seconda (order-md-2) -->
@@ -206,7 +206,7 @@
             <section id="sposo">
                 <!-- Titolo -->
                 <div class="text-center mb-3">
-                <h3 class="text-primary">Pietro</h3> <h6 class="text-primary">Visto dai testimoni...</h6>
+                <h3 style="color: #6f7f60;">Pietro</h3> <h6 style="color: #6f7f60;">Visto dai testimoni...</h6>
                 </div>
                 <div class="row align-items-center">
                 <!-- Colonna Foto (stessa in mobile e desktop) -->
@@ -349,7 +349,7 @@
             </div>
             <div class="container position-relative py-5">
                 <div class="text-center mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h5 class="text-uppercase text-primary fw-bold mb-4">Story</h5>
+                    <h5 style="color: #6f7f60;" class="text-uppercase fw-bold mb-4">Story</h5>
                     <h1 class="display-4">Our Love Story</h1>
                 </div>
                 <div class="story-timeline">
@@ -433,7 +433,7 @@
             <div class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4" style="border-style: double;">
             <h4 class="text-dark text-uppercase fw-bold mb-0" style="letter-spacing: 3px;">02 Giugno 2025</h4>
             </div>
-            <h1 class="display-4" style="color: rgb(66, 128, 98);">Ma scusate, quanto manca?</h1>
+            <h1 class="display-4" style="color: #743915;">Ma scusate, quanto manca?</h1>
             <p class="text-dark fs-5">Santuario della Madonna del Monte di Marsure, 
             Costa di, Via del Santuario, 43, 33081 Aviano PN</p>
             <div class="d-flex align-items-center justify-content-center mb-5" id="countdown">
@@ -671,6 +671,7 @@
                             <h3 class="text-dark">Lista Nozze</h3>
                             <p class="text-dark">Abbiamo creato una lista nozze per facilitare la scelta dei regali. Potete accedere alla lista nozze cliccando sul link qui sotto:</p>
                             <p class="text-dark"><strong>Nome utente:</strong> graziapietro<br><strong>Password:</strong> 020625</p>
+                            <p class="text-dark">La lista nozze è stata creata al negozio pordenonese MASCHERIN. Potete chiamare il numero 0434 521437 oppure accedere al sito della lista tramite questo link:</p>
                             <a href="http://www.mascherin.it/listanozze/" target="_blank" class="btn btn-primary btn-primary-outline-0 py-2 px-4">Vai alla Lista Nozze</a>
                         </div>
                     </div>

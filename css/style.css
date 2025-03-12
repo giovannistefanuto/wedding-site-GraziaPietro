@@ -1,4 +1,14 @@
 
+@media (max-width: 600px){
+    .navbar-brand {
+        width: 30vw;
+    }
+}
+@media (min-width: 601px){
+    .navbar-brand {
+           width: 15vw;
+        }
+}
 /*** Spinner Start ***/
 #spinner {
     opacity: 1;

@@ -44,7 +44,7 @@
                 <div class="container px-0">
                     <nav class="navbar navbar-light navbar-expand-xl" id="navBar">
                         <a href="index.html" class="navbar-brand">
-                            <img src="img\logo_grazia_pietro.jpg" alt="Grace & Pit Logo" class="navbar-brand-logo" style="width: 40%;">
+                            <img src="img/logoinpng.png" alt="Grace & Pit Logo" class="navbar-brand-logo" style="width: 40%;">
                         </a>
                         <button class="navbar-toggler py-2 px-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                             <span class="fa fa-bars text-primary"></span>

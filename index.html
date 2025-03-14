@@ -180,8 +180,8 @@
                         sa essere gentile, schietta a dismisura, 
                         talvolta testarda ma devota da far paura. 
                         La nostra fanciulla nacque nella lontana Pordenone 
-                        nel glorioso millenovecentonovantanove 
-                        e da lì i suoi pellegrinaggi iniziò, 
+                        nel glorioso millenovecentonovantanove. 
+                        E da lì i suoi pellegrinaggi iniziò, 
                         tra Verona, Padova, Chioggia e Venezia rimbalzò. 
                         Fece, così, del treno il suo compagno d’avventura, 
                         prendendo ogni straordinario senza alcuna paura. 
@@ -196,7 +196,7 @@
                         adora i suoi amici, le gite e le cantate, 
                         riesce ad aiutare anche le famiglie disagiate. 
                         Da vera principessa ha lottato contro ogni avversità 
-                        per portare all’altare la sua dolce metà
+                        per portare all’altare la sua dolce metà.
                     </p>
                 </div>
                 </div>
@@ -669,19 +669,21 @@
                     <div class="col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="bg-white p-4 border-secondary" style="border-style: double;">
                             <h3 class="text-dark">Lista Nozze</h3>
-                            <p class="text-dark">Abbiamo creato una lista nozze per facilitare la scelta dei regali. Potete accedere alla lista nozze cliccando sul link qui sotto:</p>
+                            <p class="text-dark"><em>"L'essenziale è invisibile agli occhi, si vede con il cuore"</em><br>diceva un saggio, e noi l'abbiamo presa alla lettera!<br>
+                                Nella nostra futura prima casina vivremo con l'essenziale e se vorrete aiutarci a trovarlo, sentite il <b>negozio Mascherin</b> (0434 521437) o andate alla pagina dedicata (<b>link</b> qui sotto) 
+                                </p>
                             <p class="text-dark"><strong>Nome utente:</strong> graziapietro<br><strong>Password:</strong> 020625</p>
-                            <p class="text-dark">La lista nozze è stata creata al negozio pordenonese MASCHERIN. Potete chiamare il numero 0434 521437 oppure accedere al sito della lista tramite questo link:</p>
                             <a href="http://www.mascherin.it/listanozze/" target="_blank" class="btn btn-primary btn-primary-outline-0 py-2 px-4">Vai alla Lista Nozze</a>
                         </div>
                     </div>
                     <div class="col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                         <div class="bg-white p-4 border-secondary" style="border-style: double;">
                             <h3 class="text-dark">IBAN</h3>
-                           <!-- <p class="text-dark">Se preferite, potete contribuire al nostro futuro con un bonifico. Ecco il nostro IBAN:</p>-->
+                            <p class="text-dark">L'essenziale non ci vieta di sognare comunque in grande! Se vorrete aiutarci a costruire il nostro matrimonio, vi lasciamo il nostro florido conto. </p>
                             <p class="text-dark fw-bold mb-1">IBAN: IT65U0306920910100000017314</p>
                             <p class="text-dark fw-bold">Intestatario: Pietro Rossetti</p>
                         </div>
+                        <p class="text-dark fw-bold"><br>A tutti, anche ai bambini che non leggeranno questa parte, diciamo GRAZIE a prescindere: grazie perché ci siete e ci sostenete in modi diversi, ma tutti preziosi. </p>
                     </div>
                 </div>
             </div>
@@ -699,7 +701,7 @@
             <div class="container position-relative py-5">
             <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
             <h1 class="display-2 text-dark">Gallery</h1>
-            <p class="fs-5 text-dark">Qui troverai tutte le foto che cerchi, e anche di più!</p>
+  <!--      <p class="fs-5 text-dark">Qui troverai tutte le foto che cerchi, e anche di più!</p>-->
             </div>
             
             <div class="row g-4">
@@ -813,7 +815,7 @@
             <div class="container text-center">
             <h2 class="display-4 text-primary mb-4">Condividi le tue foto/video del matrimonio</h2>
             <a href="https://drive.google.com/drive/folders/1ZVlh0T8akFG_tsiKz31NkTq_yzB1lDW7?usp=sharing" target="_blank" class="btn btn-primary btn-primary-outline-0 py-3 px-5">Carica le tue foto/video</a>
-            <p class="fs-5 text-dark mb-4">Abbiamo creato un drive dove puoi caricare tutte le foto e i video del nostro matrimonio.<br>Clicca sul pulsante qui sotto per accedere al drive e condividere i tuoi ricordi con noi!</p>
+            <p class="fs-5 text-dark mb-4 fw-bold">Abbiamo creato un drive dove puoi caricare tutte le foto e i video del nostro matrimonio.<br>Clicca sul pulsante per accedere al drive e condividere i tuoi ricordi con noi!</p>
             </div>
         </div></div>
 
@@ -823,7 +825,7 @@
                 <div class="row g-5 justify-content-center">
                     <div class="col-lg-4 text-center">
                         <div class="footer-item">
-                            <h4 class="mb-4 text-white">Grace<strong class="text-primary">&</strong>Pit</h4>
+                            <h4 class="mb-4 text-white">Grace<strong class="text-danger">&</strong>Pit</h4>
                             <p class="text-white">Guardando il mondo da un'altra distanza <br>
                                 Tra i giorni all'angolo e quelli migliori<br>
                                 Le mani sanno cos'è la pazienza<br>

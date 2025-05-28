@@ -532,7 +532,18 @@
                                 <i class="fas fa-map-marker-alt text-primary fa-3x"></i>
                             </div>
                             <h3 class="text-dark">Luogo della Celebrazione:</h3>
-                            <p class="text-dark"><b>Santuario della Madonna del Monte di Marsure, Costa di, Via del Santuario, 43, 33081 Aviano PN</b><br><br>Avendo vissuto in otto case... <br>abbiamo scelto la nona: quella del cuore. </p>
+                            <p class="text-dark">
+                                <b>Santuario della Madonna del Monte di Marsure, Costa di, Via del Santuario, 43, 33081 Aviano PN</b><br><br>
+                                Avendo vissuto in otto case... <br>abbiamo scelto la nona: quella del cuore.
+                            </p>
+                            <p>
+                                <a href="https://www.google.it/maps/place/Santuario+della+Madonna+del+Monte+di+Marsure/@46.0882232,12.5707159,575m/data=!3m2!1e3!4b1!4m6!3m5!1s0x477976fd93902009:0x7cf785ac08477ede!8m2!3d46.0882195!4d12.5732908!16s%2Fg%2F1ptx5fjfp?hl=it&entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D" 
+                                target="_blank" rel="noopener noreferrer" 
+                                class="text-primary fw-bold" 
+                                style="text-decoration: underline;">
+                                Clicca qui per Maps
+                                </a>
+                            </p>
                         </div>
                     </div>
                     <div class="col-12 border border-top-0 border-start-0">
